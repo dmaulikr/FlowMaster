@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="Tweenty Three" length="230" BPM="88" displayLoop="2" BPL="4">
+    <part type="rhyme" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two">I don't sleep, because sleep is the cousin of death</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Down the hall, there's a kid that I know</lyrics>
+        <lyrics line="two">He's kind of quirky so I say</lyrics>
+        <answer type="correct">hello</answer>
+        <answer type="wrong">hi</answer>
+        <answer type="wrong">what's up?</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">He's so sarcastic but he's always right</lyrics>
+        <lyrics line="two">Working on those problem sets late into the</lyrics>
+        <answer type="correct">night</answer>
+        <answer type="wrong">day</answer>
+        <answer type="wrong">week</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Mad magazines sit piled by his bed</lyrics>
+        <lyrics line="two">A million brilliant thoughts going all through his</lyrics>
+        <answer type="correct">head</answer>
+        <answer type="wrong">mind</answer>
+        <answer type="wrong">psyche</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">We bike to class in the autumn rain</lyrics>
+        <lyrics line="two">He tells me that he's fine but I know he's in</lyrics>
+        <answer type="correct">pain</answer>
+        <answer type="wrong">transition</answer>
+        <answer type="wrong">fear</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Pat I miss you dude it's so hard to say goodbye</lyrics>
+        <lyrics line="two">In Europe last winter you were tired of the</lyrics>
+        <answer type="correct">lie</answer>
+        <answer type="wrong">experience</answer>
+        <answer type="wrong">wait</answer>
+    </part>
+    <part type="rhyme" level="hard">
+        <lyrics line="one">Monoxide in the bathroom but the door was locked</lyrics>
+        <lyrics line="two">We were always there for you, you could have called and</lyrics>
+        <answer type="correct">talked</answer>
+        <answer type="wrong">spoken</answer>
+        <answer type="wrong">connected</answer>
+    </part>
+    <part type="rhyme" level="hard">
+        <lyrics line="one">I felt guilty and alone and so sick when I discovered</lyrics>
+        <lyrics line="two">You did it in Berlin, you'd just talked to your</lyrics>
+        <answer type="correct">mother</answer>
+        <answer type="wrong">father</answer>
+        <answer type="wrong">sister</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">I guess it was too much, depression disillusion</lyrics>
+        <lyrics line="two">Maybe suicide's an answer, but it wasn't the</lyrics>
+        <answer type="correct">solution</answer>
+        <answer type="wrong">way out</answer>
+        <answer type="wrong">right thing</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">And I wish that you hadn't done </lyrics>
+        <lyrics line="two">it, Could have </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">won it and moved on from </lyrics>
+        <lyrics line="two">it, And we </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">could have grown old together</lyrics>
+        <lyrics line="two">But instead </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">you'll always </lyrics>
+        <lyrics line="two">be 23</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two">23</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="hard">
+        <lyrics line="one">We sat together one night on El Camino</lyrics>
+        <lyrics line="two">On the bench by the bus stop hiding from El</lyrics>
+        <answer type="correct">Nino</answer>
+        <answer type="wrong">Mono</answer>
+        <answer type="wrong">Gato</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">You told me your secret I just sat there in shock</lyrics>
+        <lyrics line="two">You couldn't tell your parents, you couldn't break that</lyrics>
+        <answer type="correct">lock</answer>
+        <answer type="wrong">problem</answer>
+        <answer type="wrong">chain</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Cognitive dissonance, trapped in your shell</lyrics>
+        <lyrics line="two">Depression and regression made your life a living</lyrics>
+        <answer type="correct">hell</answer>
+        <answer type="wrong">drama</answer>
+        <answer type="wrong">nightmare</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">The pain was too intense, the fence too strong to break</lyrics>
+        <lyrics line="two">So you went to Germany, it was too much to</lyrics>
+        <answer type="correct">take</answer>
+        <answer type="wrong">deal with</answer>
+        <answer type="wrong">stomach</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">You came back broken hearted distracted by the dream</lyrics>
+        <lyrics line="two">The worlds collided now, college wasn't what it</lyrics>
+        <answer type="correct">seemed</answer>
+        <answer type="wrong">should have been</answer>
+        <answer type="wrong">claimed</answer>
+    </part>
+    <part type="rhyme" level="medium">
+        <lyrics line="one">You went to back to Berlin to find yourself once more</lyrics>
+        <lyrics line="two">They broke down the door and found you lying on the</lyrics>
+        <answer type="correct">floor</answer>
+        <answer type="wrong">ground</answer>
+        <answer type="wrong">tile</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">I took the Amtrak up the coast, your mom met me at the station</lyrics>
+        <lyrics line="two">I went to see your house and photos of your</lyrics>
+        <answer type="correct">graduation</answer>
+        <answer type="wrong">birthday</answer>
+        <answer type="wrong">party</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">We drove to your grave, no tombstone where you lay</lyrics>
+        <lyrics line="two">Your freshmen yearbook's by your bed and your room's in</lyrics>
+        <answer type="correct">disarray</answer>
+        <answer type="wrong">chaos</answer>
+        <answer type="wrong">Connecticut</answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">And I wish that you hadn't done </lyrics>
+        <lyrics line="two">it, Could have </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">won it and moved on from </lyrics>
+        <lyrics line="two">it, Now we'll </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">never grow old together</lyrics>
+        <lyrics line="two">But you're </lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one">in my memory, </lyrics>
+        <lyrics line="two">23… 23.</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+    <part type="rhyme" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>
+</song>

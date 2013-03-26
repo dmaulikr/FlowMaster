@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="White_Kids" length="320" BPM="100" displayLoop="3" BPL="4">
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, I wish E-40 liked me </lyrics>
+			<lyrics line="two">I wish I didn't crash going ghost riding nightly </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact that </lyrics>
+			<lyrics line="two">I'm whack on the track White kids aren't hyphy!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Got kicked out of Slim's like a week ago</lyrics>
+			<lyrics line="two">For crumping in the front row at the Anticon</lyrics>
+			<answer type="correct">show</answer>
+			<answer type="wrong">gig</answer>
+			<answer type="wrong">concert</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">And everyone I know says I'm taking my chances</lyrics>
+			<lyrics line="two">Cruising through Oakland bumping Sage</lyrics>
+			<answer type="correct">Francis</answer>
+			<answer type="wrong">Johnson</answer>
+			<answer type="wrong">Nielsen</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">San Jose rappers say they don't want to hear</lyrics>
+			<lyrics line="two">Angry emo raps by Eyedea and</lyrics>
+			<answer type="correct">Atmosphere</answer>
+			<answer type="wrong">mc chris</answer>
+			<answer type="wrong">Bob Dylan</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">The hippies out in Berkeley tell me I should stop</lyrics>
+			<lyrics line="two">Ghost riding my Volvo wearing</lyrics>
+			<answer type="correct">Birkenstocks</answer>
+			<answer type="wrong">Vans</answer>
+			<answer type="wrong">Converse</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">So I took my Dad's Lexus into town for a spin</lyrics>
+			<lyrics line="two">Surprised him back at home with some 18-inch</lyrics>
+			<answer type="correct">rims</answer>
+			<answer type="wrong">hats</answer>
+			<answer type="wrong">gold fish</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Up at Live 105 jumping on Aaron's desk</lyrics>
+			<lyrics line="two">Stop playing Mickey Avalon! His concepts are a</lyrics>
+			<answer type="correct">mess</answer>
+			<answer type="wrong">problem</answer>
+			<answer type="wrong">nightmare</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Traxamillion did this beat, now he's calling on the phone</lyrics>
+			<lyrics line="two">Drank too much Hyphy Juice®, then I got a kidney</lyrics>
+			<answer type="correct">stone</answer>
+			<answer type="wrong">infection</answer>
+			<answer type="wrong">removed</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">The Bay has come back with a brand new sound</lyrics>
+			<lyrics line="two">But it's so hard to be retarded, guess I'll never be</lyrics>
+			<answer type="correct">down</answer>
+			<answer type="wrong">with it</answer>
+			<answer type="wrong">feeling it</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, I wish E-40 liked me </lyrics>
+			<lyrics line="two">I wish I didn't crash going ghost riding nightly </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact that </lyrics>
+			<lyrics line="two">I'm whack on the track White kids aren't hyphy!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, not white like Kiera Knightly</lyrics>
+			<lyrics line="two">I wish I had a whip for the girls rocking Nike</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact when I'm back with the raps</lyrics>
+			<lyrics line="two">White kids aren't hyphy!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Showed up at the side-show but they laughed at me</lyrics>
+			<lyrics line="two">Tried to ghost ride my whip but I hit a</lyrics>
+			<answer type="correct">tree</answer>
+			<answer type="wrong">post</answer>
+			<answer type="wrong">parked truck</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">And I can't yoke my Volvo on five bucks a gallon</lyrics>
+			<lyrics line="two">Didn't have any thizz so I popped a</lyrics>
+			<answer type="correct">Valium</answer>
+			<answer type="wrong">wheelie</answer>
+			<answer type="wrong">Skittle</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Because that's how we roll when we're in the Bay Area</lyrics>
+			<lyrics line="two">The rippers ride the Yellow Bus we bring the mass</lyrics>
+			<answer type="correct">hysteria</answer>
+			<answer type="wrong">appeal</answer>
+			<answer type="wrong">distrobution</answer>
+		</part>		
+		<part type="rhyme" level="hard">
+			<lyrics line="one">I'm up in the club in my brand new stunnas</lyrics>
+			<lyrics line="two">Had a seizure form the strobes so my moves got</lyrics>
+			<answer type="correct">dumber</answer>
+			<answer type="wrong">worse</answer>
+			<answer type="wrong">hyphy</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Keak da Sneak looked at me and said, “Yo this kid can dance!”</lyrics>
+			<lyrics line="two">I was keeping it so treal that I split my baggy</lyrics>
+			<answer type="correct">pants</answer>
+			<answer type="wrong">undies</answer>
+			<answer type="wrong">sirt</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Then I got up on the mic all def dumb and hyphy</lyrics>
+			<lyrics line="two">From Richmond to Vallejo rappers want to be just</lyrics>
+			<answer type="correct">like me</answer>
+			<answer type="wrong">awesome</answer>
+			<answer type="wrong">perfect</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">E-40′s in his scraper with his brand new slumper</lyrics>
+			<lyrics line="two">I'm chillin' with Bubb Rubb in the tricked out</lyrics>
+			<answer type="correct">Hummer</answer>
+			<answer type="wrong">ride</answer>
+			<answer type="wrong">hoopty</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">The kids yell “Yee!” the whistles go “Whoo!”</lyrics>
+			<lyrics line="two">Don't know what I just said on this verse, do</lyrics>
+			<answer type="correct">you</answer>
+			<answer type="wrong">y'all</answer>
+			<answer type="wrong">horses</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, I wish these rappers liked me</lyrics>
+			<lyrics line="two">Wish they weren't on Myspace always typing “Bite me!”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact that I lack the attack</lyrics>
+			<lyrics line="two">White kids aren't hyphy!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, not your average white g</lyrics>
+			<lyrics line="two">Catch me in the Source with five mics? That's unlikely</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact that I'm whack like Iraq</lyrics>
+			<lyrics line="two">White kids aren't hyphy!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Check out this dance move, </lyrics>
+			<lyrics line="two">You just throw your arms and legs around like you just </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">got electrocuted. </lyrics>
+			<lyrics line="two">It's the new hyphy style. Let's get it twisted!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Easy man! </lyrics>
+			<lyrics line="two">You just kicked my girlfriend in the face! </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">She's bleeding everywhere!Come on man…</lyrics>
+			<lyrics line="two">Dude, you come on! I'm just keeping it treal!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, I wish E-40 liked me</lyrics>
+			<lyrics line="two">I wish I didn't crash going ghost riding nightly</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact that I'm wack on the track</lyrics>
+			<lyrics line="two">White kids aren't hyphy!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I wish I was a little bit hyphy, not white like Kiera Knightly</lyrics>
+			<lyrics line="two">I wish I had a whip for the girls rocking Nike</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Wish I didn't have to face the fact when I'm back with the raps</lyrics>
+			<lyrics line="two">White kids aren't hyphy!???</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Shout outs to the whole Bay Area!</lyrics>
+			<lyrics line="two">What we used to call Marine World</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Dr. Comics and Mr. Games Stanford University – </lyrics>
+			<lyrics line="two">charging too much for a liberal arts education</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Silicon Valley, thanks for inventing the Internet</lyrics>
+			<lyrics line="two">The Oakland A's – please don't move to Fremont,</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'll be rocking that hat with even less allegiance</lyrics>
+			<lyrics line="two">YadidI'msayin?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

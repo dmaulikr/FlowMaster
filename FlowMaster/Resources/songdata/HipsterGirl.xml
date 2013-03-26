@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="Hipster Girl" length="222" BPM="128" displayLoop="19" BPL="4">
+    
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">I met her in the thrift shop</lyrics>
+        <lyrics line="two" animationTag ="203">bumping indie</lyrics>
+        <answer type="correct">hip-hop</answer>
+        <answer type="wrong">rock</answer>
+        <answer type="wrong">synth funk</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Calculator wrist watch,</lyrics>
+        <lyrics line="two">Shins t-shirt and</lyrics>
+        <answer type="correct">flip-flops</answer>
+        <answer type="wrong">sneakers</answer>
+        <answer type="wrong">green socks</answer>
+        
+    </part>
+    
+    
+    
+	
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Queen of the hipster scene,</lyrics>
+        <lyrics line="two" animationTag ="204">straight out of Vice</lyrics>
+        <answer type="correct">Magazine</answer>
+        <answer type="wrong">online</answer>
+        <answer type="wrong">from Miami</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Social outcast at 16</lyrics>
+        <lyrics line="two">but now she lives her BoHo</lyrics>
+        <answer type="correct">Dream</answer>
+        <answer type="wrong">Life</answer>
+        <answer type="wrong">Experience</answer>
+        
+    </part>
+    
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="205">She came from Omaha to Williamsburg</lyrics>
+        <lyrics line="two" animationTag ="206">She loved Karen O and she had</lyrics>
+        <answer type="correct">heard</answer>
+        <answer type="wrong">discovered</answer>
+        <answer type="wrong">known</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">That Brooklyn was the hipster mecca</lyrics>
+        <lyrics line="two">Packed her bags with her friend</lyrics>
+        <answer type="correct">Rebecca</answer>
+        <answer type="wrong">Oscar</answer>
+        <answer type="wrong">Jose</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="207">Said she had a thing for broke dudes in bands</lyrics>
+        <lyrics line="two">Who lived by Union or by</lyrics>
+        <answer type="correct">Grand</answer>
+        <answer type="wrong">Lorimer</answer>
+        <answer type="wrong">Greenpoint Ave</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">So we went down to the Bedford Bar</lyrics>
+        <lyrics line="two">And bought a six dollar</lyrics>
+        <answer type="correct">PBR</answer>
+        <answer type="wrong">IPA</answer>
+        <answer type="wrong">Jack and Coke</answer>
+        
+    </part>
+    
+    
+    
+      
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Ezra. Go down Bedford,</lyrics>
+        <lyrics line="two">take a right on Metropolitan,</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">then a right on Union, and then you're here. </lyrics>
+        <lyrics line="two">Just text me when you get here okay?</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="201">Hipster girl</lyrics>
+        <lyrics line="two" animationTag ="201">Cool by the numbers and she rocks</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="201">my world</lyrics>
+        <lyrics line="two" animationTag ="201">Knows all the indie bands you've</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="201">never heard</lyrics>
+        <lyrics line="two" animationTag ="201">She's my hipster girl</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="201"></lyrics>
+        <lyrics line="two" animationTag ="201"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">She thinks uncool stuff is mad cool,</lyrics>
+        <lyrics line="two">indie culture's fad</lyrics>
+        <answer type="correct">rule</answer>
+        <answer type="wrong">story</answer>
+        <answer type="wrong">component</answer>
+        
+    </part>
+    
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">But cool stuff is uncool, right? </lyrics>
+        <lyrics line="two" animationTag ="208">That's why Friday's Jewel</lyrics>
+        <answer type="correct">night</answer>
+        <answer type="wrong">evening</answer>
+        <answer type="wrong">songs</answer>
+        
+    </part>  
+    
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">She reads books no one has read</lyrics>
+        <lyrics line="two">laughs at jokes no one has</lyrics>
+        <answer type="correct">said</answer>
+        <answer type="wrong">told</answer>
+        <answer type="wrong">invented</answer>
+        
+    </part>  
+    
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">So ironic with her taste,</lyrics>
+        <lyrics line="two" animationTag ="209">her whole life is cut and</lyrics>
+        <answer type="correct">paste</answer>
+        <answer type="wrong">clip</answer>
+        <answer type="wrong">snip</answer>
+        
+    </part> 
+    <part type="rhyme" level="medium">
+        <lyrics line="one">It's a metrosexual romance,</lyrics>
+        <lyrics line="two">she wears my shirts and I wear her</lyrics>
+        <answer type="correct">pants</answer>
+        <answer type="wrong">shoes</answer>
+        <answer type="wrong">hoodie</answer>
+        
+    </part> 
+    
+    
+    
+    
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">We play dodge ball, kid sports are cool</lyrics>
+        <lyrics line="two" animationTag ="210">Watching Spank Rock and McCarren Park</lyrics>
+        <answer type="correct">Pool</answer>
+        <answer type="wrong">Station</answer>
+        <answer type="wrong">Bars</answer>
+        
+    </part> 
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one">She's my trust fund baby bohemian,</lyrics>
+        <lyrics line="two">her vegan hummus keeps her</lyrics>
+        <answer type="correct">thin</answer>
+        <answer type="wrong">annorexic</answer>
+        <answer type="wrong">pretentious</answer>
+        
+    </part> 
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">I love my L-Train girl it's true</lyrics>
+        <lyrics line="two">she always goes down on the weekends</lyrics>
+        <answer type="correct">too</answer>
+        <answer type="wrong">also</answer>
+        <answer type="wrong">frequently?</answer>
+        
+    </part> 
+    
+         
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">By the way, that pro-Bush shirt</lyrics>
+        <lyrics line="two">you're wearing is making me really</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">uncomfortable, you may be wearing it</lyrics>
+        <lyrics line="two">ironically, but that doesn't give you the license</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">to be obnoxious, you look like a hardcore</lyrics>
+        <lyrics line="two">fascist redneck!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">Hipster girl</lyrics>
+        <lyrics line="two" animationTag ="202">Cool by the numbers and</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">she rocks my world</lyrics>
+        <lyrics line="two" animationTag ="202">Knows all the indie</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">bands you've never heard</lyrics>
+        <lyrics line="two" animationTag ="202">She's my</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">hipster girl</lyrics>
+        <lyrics line="two" animationTag ="202"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Donnie Darko makes no sense!</lyrics>
+        <lyrics line="two">Hipster girl: When did side-pony tails get cool again?</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Your fixed-gear bike makes no sense!</lyrics>
+        <lyrics line="two">Hipster girl: I've been trying to do that dirty-chic thing, you know?</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Donnie Darko makes no sense!</lyrics>
+        <lyrics line="two">Hipster girl: I am so BoHo right now</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">L train girls don't make sense</lyrics>
+        <lyrics line="two">I don't get it, I don't get it</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">Hipster girl</lyrics>
+        <lyrics line="two" animationTag ="202">Cool by the numbers</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">and she rocks my world</lyrics>
+        <lyrics line="two" animationTag ="202">Knows all the indie</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">bands you've never heard</lyrics>
+        <lyrics line="two" animationTag ="202">She's my</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">hipster girl</lyrics>
+        <lyrics line="two" animationTag ="202"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">...Hipster</lyrics>
+        <lyrics line="two" animationTag ="202">girl, She's got her latte</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+
+    
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">and some spoken word</lyrics>
+        <lyrics line="two" animationTag ="202">Ironic statements</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">on her vintage shirts</lyrics>
+        <lyrics line="two" animationTag ="202">She's my</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one" animationTag ="202">hipster girl</lyrics>
+        <lyrics line="two" animationTag ="202"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    
+        
+      
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">I'll give it to you, Napoleon Dynamite</lyrics>
+        <lyrics line="two">was funny, but “Vote for Pedro”</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">t-shirts at Wal-Mart? What</lyrics>
+        <lyrics line="two">are they thinking. Wal-Mart is evil.</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Their health care is totally inadequate.</lyrics>
+        <lyrics line="two">Didn't you see the screening of that Robert</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one">Greenwald movie at Pete's Candy Store?</lyrics>
+        <lyrics line="two">It was so sad.</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>
+    
+
+    
+	
+    
+</song>
+

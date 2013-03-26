@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="VenomousBox" length="330" BPM="70.5" displayLoop="4" BPL="4">
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Yo, I'm more deadly than a venomous box jellyfish </lyrics>
+			<lyrics line="two">My poetry is hella sick and relevant let's</lyrics>
+			<answer type="correct">celebrate </answer>
+			<answer type="wrong">dance</answer>
+			<answer type="wrong">polka</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Forensic DNA in the way I murder tracks I'm iller than a killer </lyrics>
+			<lyrics line="two">on death row so watch your</lyrics>
+			<answer type="correct">back</answer>
+			<answer type="wrong">front</answer>
+			<answer type="wrong">side</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Like Walt Whitman stacking stanzas damn it's awesome when it flows</lyrics>
+			<lyrics line="two">The hip-hop Henry Rollins starting mosh pits at my</lyrics>
+			<answer type="correct">shows</answer>
+			<answer type="wrong">concerts</answer>
+			<answer type="wrong">gigs</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a monster going Gaga do you want to take a ride?</lyrics>
+			<lyrics line="two">The ghost of Byron talks to me and helps me write my</lyrics>
+			<answer type="correct">rhymes like</answer>
+			<answer type="wrong">lyrics, homie</answer>
+			<answer type="wrong">words, man</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">"Dnuorgrednu dedaeh M'i, srewes eht ni gnidih M'i." Translation:</lyrics>
+			<lyrics line="two">"I'm hiding in the sewers, I'm headed</lyrics>
+			<answer type="correct">underground"</answer>
+			<answer type="wrong">deep"</answer>
+			<answer type="wrong">to USC"</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">And I'm alive – so glad we both can share this moment,</lyrics>
+			<lyrics line="two">Lack of passion, don't condone it, like Em said you've got to</lyrics>
+			<answer type="correct">own it</answer>
+			<answer type="wrong">live it</answer>
+			<answer type="wrong">be joyful</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">I'm nice like Albert Einstein, a walking talking Stephen Hawking</lyrics>
+			<lyrics line="two">Dark matter, spit it faster, got these kids at home all</lyrics>
+			<answer type="correct">rocking</answer>
+			<answer type="wrong">e-mailing</answer>
+			<answer type="wrong">climbing</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Horris Records – that's the label – so respect the competition</lyrics>
+			<lyrics line="two">Still swimmin' at the Y because I'm frugal when I'm</lyrics>
+			<answer type="correct">winnin'.</answer>
+			<answer type="wrong">achievin'.</answer>
+			<answer type="wrong">connectin'.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Greenpoint, that's where my girl and I both stay</lyrics>
+			<lyrics line="two">Grill Greens – copping lamb pitas like every single</lyrics>
+			<answer type="correct">day (mmm!)</answer>
+			<answer type="wrong">hour (mmm!)</answer>
+			<answer type="wrong">week (mmm!)</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Peter Pan doughnuts, yo I go nuts for the coffee</lyrics>
+			<lyrics line="two">Spill it on Moleskin journal – 'cause sometimes I'm kind of</lyrics>
+			<answer type="correct">sloppy (whoops)'</answer>
+			<answer type="wrong">goofy (whoops)'</answer>
+			<answer type="wrong">ridiculous (whoops)'</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">My homie Zak is working on his Phd (get it Zak!)</lyrics>
+			<lyrics line="two">My homie Mike is working on his</lyrics>
+			<answer type="correct">Phd (get it Mike!)</answer>
+			<answer type="wrong">book (get it Mike!)</answer>
+			<answer type="wrong">life mission (get it Mike!)</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">I got my masters in MC-ing on these stages</lyrics>
+			<lyrics line="two">My generation is the greatest someone had to</lyrics>
+			<answer type="correct">say it</answer>
+			<answer type="wrong">admit it</answer>
+			<answer type="wrong">document it</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">On Monday… I'm writing rhymes,On Tuesday… I'm writing rhymes,</lyrics>
+			<lyrics line="two">On Wednesday… I'm writing rhymes,On Thursday… I'm</lyrics>
+			<answer type="correct">writing rhymes,</answer>
+			<answer type="wrong">swimming joyfully,</answer>
+			<answer type="wrong">e-mailing Bada,</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">On Friday… I'm writing rhymes,On Saturday… still writing rhymes,</lyrics>
+			<lyrics line="two">On Sunday… that's the day I experiment with</lyrics>
+			<answer type="correct">Logic presets.</answer>
+			<answer type="wrong">writing rhymes.</answer>
+			<answer type="wrong">hollering at Mike Zyda.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Venomous box jellyfish!</lyrics>
+			<lyrics line="two">Box jellyfish! Box jellyfish, I'm hella sick!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Up in the New York Public Library I was working on this song</lyrics>
+			<lyrics line="two">An old man to my right was on YouTube watching music videos and singing</lyrics>
+			<answer type="correct">along</answer>
+			<answer type="wrong">all hyphy</answer>
+			<answer type="wrong">nasty lyrics</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Then this other guy got real mad and he yelled at the guy like "dude shut up"</lyrics>
+			<lyrics line="two">They started to fight but a cop broke it up, I kept writing the whole thing was</lyrics>
+			<answer type="correct">nuts!</answer>
+			<answer type="wrong">hilarious!</answer>
+			<answer type="wrong">awkward!</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">On Sunday… I'm writing rhymes, On Monday… I'm writing rhymes,</lyrics>
+			<lyrics line="two">On Tuesday… I'm writing rhymes, On Wednesday… </lyrics>
+			<answer type="correct">I'm writing rhymes,</answer>
+			<answer type="wrong">fishing for trout</answer>
+			<answer type="wrong">reading Bukowski</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">On Thursday… I'm watching fights! On Friday… I'm writing rhymes,</lyrics>
+			<lyrics line="two">On Saturday… I'm writing rhymes, Hey guess what? Still</lyrics>
+			<answer type="correct">writing rhymes!</answer>
+			<answer type="wrong">dreaming of chocolate</answer>
+			<answer type="wrong">throwing candy at Bob Dylan</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Let the fish breathe on this one</lyrics>
+			<lyrics line="two">(Jellyfish, jellyfish, jellyfish, jellyfish).</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm a let the fish breathe on this one</lyrics>
+			<lyrics line="two">(Jellyfish, jellyfish, jellyfish, jellyfish).</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

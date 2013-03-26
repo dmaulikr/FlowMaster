@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="MrRaven" length="358" BPM="111" displayLoop="4" BPL="4">
+		<part type="rhyme" level="easy">
+			<lyrics line="one" animationTag = "401">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Kick it! Once upon a midnight dreary,</lyrics>
+			<lyrics line="two">while I kicked it weak and</lyrics>
+			<answer type="correct">weary,</answer>
+			<answer type="wrong">exhausted,</answer>
+			<answer type="wrong">tired,</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Dark and cold just like Lake Eerie,</lyrics>
+			<lyrics line="two">Brand New sample, someone</lyrics>
+			<answer type="correct">clear me.</answer>
+			<answer type="wrong">help us.</answer>
+			<answer type="wrong">record this.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">While I nodded nearly napping,</lyrics>
+			<lyrics line="two">suddenly there came a</lyrics>
+			<answer type="correct">tapping.</answer>
+			<answer type="wrong">noise.</answer>
+			<answer type="wrong">explosion.</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Up like, “What?”, this thunder clapping </lyrics>
+			<lyrics line="two">in my brain like graphic</lyrics>
+			<answer type="correct">Halflings.</answer>
+			<answer type="wrong">Hobbits.</answer>
+			<answer type="wrong">monkeys.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Staffing me, I put down Milton. </lyrics>
+			<lyrics line="two">Cell phone mute like Paris</lyrics>
+			<answer type="correct">Hilton.</answer>
+			<answer type="wrong">France.</answer>
+			<answer type="wrong">Jones.</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Open window, halfway built-in. </lyrics>
+			<lyrics line="two">Times a changing like Bob</lyrics>
+			<answer type="correct">Dylan.</answer>
+			<answer type="wrong">Jones.</answer>
+			<answer type="wrong">Thompson.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Twenty-pound bird black as could be, </lyrics>
+			<lyrics line="two">cold feet cold eyes aimed straight</lyrics>
+			<answer type="correct">at me.</answer>
+			<answer type="wrong">in my face.</answer>
+			<answer type="wrong">this way.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Grim face, grim stare, death carnivore, </lyrics>
+			<lyrics line="two">quothe that raven</lyrics>
+			<answer type="correct">“Nevermore.”</answer>
+			<answer type="wrong">"What's up yo?"</answer>
+			<answer type="wrong">"Merry Christmas!"</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I miss Lenore, my Annabel Lee, </lyrics>
+			<lyrics line="two">taken by angels from</lyrics>
+			<answer type="correct">me.</answer>
+			<answer type="wrong">us.</answer>
+			<answer type="wrong">everyone.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Alone with books (hey that’s me!), </lyrics>
+			<lyrics line="two">harbinger of death visiting</lyrics>
+			<answer type="correct">me.</answer>
+			<answer type="wrong">the house.</answer>
+			<answer type="wrong">my room.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">“Can I help you, evil prophet? </lyrics>
+			<lyrics line="two">If you got a problem, look, I’ll</lyrics>
+			<answer type="correct">solve it.”</answer>
+			<answer type="wrong">help you."</answer>
+			<answer type="wrong">be there."</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">He checked my hook, DJ revolved it, </lyrics>
+			<lyrics line="two">perched on Pallas, chalice</lyrics>
+			<answer type="correct">dropped it.</answer>
+			<answer type="wrong">broke it.</answer>
+			<answer type="wrong">threw it.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">“Tell me sir, please, if you can. </lyrics>
+			<lyrics line="two">Am I good or evil</lyrics>
+			<answer type="correct">man?</answer>
+			<answer type="wrong">dude?</answer>
+			<answer type="wrong">homie?</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">What can I say, what can I do, </lyrics>
+			<lyrics line="two">when will I be rid of</lyrics>
+			<answer type="correct">you?”</answer>
+			<answer type="wrong">this?"</answer>
+			<answer type="wrong">pain?"</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">“Nevermore,” quothe he at me, </lyrics>
+			<lyrics line="two">hating on this fresh</lyrics>
+			<answer type="correct">MC,</answer>
+			<answer type="wrong">DJ,</answer>
+			<answer type="wrong">homeboy,</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Satanic raven, Niche glee, </lyrics>
+			<lyrics line="two">killing me softly like the</lyrics>
+			<answer type="correct">Fugees.</answer>
+			<answer type="wrong">Beatles.</answer>
+			<answer type="wrong">Rolling Stones.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Now I feel worse, my verse is terse, </lyrics>
+			<lyrics line="two">joy inverse just like Fred</lyrics>
+			<answer type="correct">Durst.</answer>
+			<answer type="wrong">Rogers.</answer>
+			<answer type="wrong">Zyda.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Call a nurse, disperse my thirst </lyrics>
+			<lyrics line="two">put this process in</lyrics>
+			<answer type="correct">reverse.</answer>
+			<answer type="wrong">the past.</answer>
+			<answer type="wrong">the other room.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Wish Id had some warning first, </lyrics>
+			<lyrics line="two">MC Lars, ’88</lyrics>
+			<answer type="correct">hearse.</answer>
+			<answer type="wrong">flavor.</answer>
+			<answer type="wrong">problems.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Now I’ll never be Slug or Murs, </lyrics>
+			<lyrics line="two">under that black raven’s</lyrics>
+			<answer type="correct">curse.</answer>
+			<answer type="wrong">smile.</answer>
+			<answer type="wrong">wings.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">The ravens eyes still have the seeming </lyrics>
+			<lyrics line="two">of a demon that is</lyrics>
+			<answer type="correct">dreaming,</answer>
+			<answer type="wrong">smiling,</answer>
+			<answer type="wrong">plotting</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Lamplight over him still streaming, </lyrics>
+			<lyrics line="two">hear my screaming, hear me</lyrics>
+			<answer type="correct">screaming!</answer>
+			<answer type="wrong">yelling!</answer>
+			<answer type="wrong">crying!</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">My soul still floats there on that floor </lyrics>
+			<lyrics line="two">and shall be lifted</lyrics>
+			<answer type="correct">nevermore.</answer>
+			<answer type="wrong">never again.</answer>
+			<answer type="wrong">tomorrow.</answer>
+		</part>
+		<part type="rhyme" level="mediumy">
+			<lyrics line="one">Afflicted calm, like Michael Moore, </lyrics>
+			<lyrics line="two">canonized piece, US</lyrics>
+			<answer type="correct">folklore.</answer>
+			<answer type="wrong">stories.</answer>
+			<answer type="wrong">truth.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s that (who’s that) rapping?</lyrics>
+			<lyrics line="two">Who’s that rapping at my chamber door?</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. (mister) Raven!</lyrics>
+			<lyrics line="two">All up in my grill like, “Nevermore.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Who’s house? </lyrics>
+			<lyrics line="two">Raven’s house!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

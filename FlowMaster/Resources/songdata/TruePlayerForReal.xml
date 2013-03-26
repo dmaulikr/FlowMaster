@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="True Player For Real" length="213" BPM="100" displayLoop="9" BPL="4">
+        <part type="rhyme" level="medium">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>	
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Since I was 3 I had ADHD,</lyrics>
+			<lyrics line="two">Got in trouble constantly, said, "Just gotta be</lyrics>
+			<answer type="correct">me!"</answer>
+			<answer type="wrong">hialrious!"</answer>
+			<answer type="wrong">joyful!"</answer>
+			
+		</part>	
+	
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Nineteen years later I've got this piece of paper</lyrics>
+			<lyrics line="two">It says "congrats, you're broke English</lyrics>
+			<answer type="correct">major</answer>
+			<answer type="wrong">student</answer>
+			<answer type="wrong">person</answer>
+		
+		</part>
+		
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I still live with Mom and Dad and it's kind of sad</lyrics>
+			<lyrics line="two">when this Stanford grad brings ladies to his</lyrics>
+			<answer type="correct">pad</answer>
+			<answer type="wrong">spot</answer>
+			<answer type="wrong">house</answer>
+			
+		</part>
+		
+		
+		<part type="chorus" level="medium">
+			<lyrics line="one">Aren't you that rapper with that song about Hot Topic?</lyrics>
+			<lyrics line="two">Maybe Bukowski was right about women? "Haha, stop it"</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>
+		
+		<part type="rhyme" level="hard">
+			<lyrics line="one">This is an old-school jam, I'm dropping knowledge like Plato</lyrics>
+			<lyrics line="two">While most rappers track it backwards and stay flat like</lyrics>
+			<answer type="correct">Play-Doh</answer>
+			<answer type="wrong">placemats</answer>
+			<answer type="wrong">paper</answer>
+			
+		</part>
+		
+        
+        <part type="rhyme" level="easy">
+			<lyrics line="one">But I'm a Minor Threat, I flip scripts so they know</lyrics>
+			<lyrics line="two">You can't taze me bro ("Don't taze me</lyrics>
+			<answer type="correct">bro!")</answer>
+			<answer type="wrong">player!")</answer>
+			<answer type="wrong">dude!"!</answer>
+			
+		</part>
+		
+		
+         <part type="rhyme" level="medium">
+			<lyrics line="one">Not to conceal, keep it surreal</lyrics>
+			<lyrics line="two">Piss off the British press when I'm like, “Who's John</lyrics>
+			<answer type="correct">Peel?"</answer>
+			<answer type="wrong">Williams?"</answer>
+			<answer type="wrong">Connor?"</answer>
+			
+		</part>  
+		
+		
+         <part type="rhyme" level="medium">
+			<lyrics line="one">The NME says, “Lars is well rubbish</lyrics>
+			<lyrics line="two">His single is bollocks, ” but I know that they love</lyrics>
+			<answer type="correct">this!</answer>
+			<answer type="wrong">me!</answer>
+			<answer type="wrong">music!</answer>
+			
+		</part> 
+		
+        <part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		 <part type="chorus" level="easy">
+			
+			<lyrics line="one">It's my self-referential introduction song</lyrics>
+			<lyrics line="two">You know the deal (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">The name's MC Lars means Lars in charge</lyrics>
+			<lyrics line="two">(true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Once upon a time Grandmaster Flash</lyrics>
+			<lyrics line="two">Inspired these nerds with a culture</lyrics>
+			<answer type="correct">clash</answer>
+			<answer type="wrong">fusion</answer>
+			<answer type="wrong">story</answer>
+			
+		</part> 
+
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Once Run-DMC mixed rock guitars</lyrics>
+			<lyrics line="two">With the kick, snare, kick, kick,</lyrics>
+			<answer type="correct">snare</answer>
+			<answer type="wrong">soccer</answer>
+			<answer type="wrong">ball</answer>
+			
+		</part> 
+		
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Public Enemy took a political stand,</lyrics>
+			<lyrics line="two">Now we pirate these records like damn the</lyrics>
+			<answer type="correct">man</answer>
+			<answer type="wrong">victory</answer>
+			<answer type="wrong">origins</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">NWA got attacked by the media,</lyrics>
+			<lyrics line="two">Now we check the facts up on</lyrics>
+			<answer type="correct">Wikipedia</answer>
+			<answer type="wrong">Google</answer>
+			<answer type="wrong">Fox News</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Can't get on the stage at the Jay-Z show</lyrics>
+			<lyrics line="two">So we boot up ProTools and bust a funky</lyrics>
+			<answer type="correct">flow</answer>
+			<answer type="wrong">rap</answer>
+			<answer type="wrong">dance</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Online for free we don't make dough,</lyrics>
+			<lyrics line="two">Okay just thought I'd let you</lyrics>
+			<answer type="correct">know</answer>
+			<answer type="wrong">hear</answer>
+			<answer type="wrong">be</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">And I can give you 27 reasons why</lyrics>
+			<lyrics line="two">Nerdcore rhymes are just as</lyrics>
+			<answer type="correct">fly</answer>
+			<answer type="wrong">sick</answer>
+			<answer type="wrong">awesome</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="medium">
+			<lyrics line="one">As anything born from mainstream rap,</lyrics>
+			<lyrics line="two">Till my laptop dies… and I'll take that</lyrics>
+			<answer type="correct">back</answer>
+			<answer type="wrong">home</answer>
+			<answer type="wrong">forward</answer>
+			
+		</part>	
+		
+		 <part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">Still my self-referential introduction song</lyrics>
+			<lyrics line="two">You know the deal(true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">The name's MC Lars of a rap star</lyrics>
+			<lyrics line="two">(true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+	<part type="rhyme" level="hard">
+			<lyrics line="one">Like Ralph Waldo Emerson, I stay "Self Reliant"</lyrics>
+			<lyrics line="two">Genre-defiant, all ages shows with Kobe</lyrics>
+			<answer type="correct">Bryant</answer>
+			<answer type="wrong">beef</answer>
+			<answer type="wrong">comedy</answer>
+				
+		</part>
+		
+		<part type="rhyme" level="hard">
+			<lyrics line="one">I just checked Billboard, my album's in the charts</lyrics>
+			<lyrics line="two">I think therefore I soundscan, right</lyrics>
+			<answer type="correct">Descartes?</answer>
+			<answer type="wrong">Camus?</answer>
+			<answer type="wrong">Kafka?</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="medium">
+			<lyrics line="one">But am I a culture thief making hip-hop sound white?</lyrics>
+			<lyrics line="two">Haven't got the right like Lancelot the</lyrics>
+			<answer type="correct">knight?</answer>
+			<answer type="wrong">gangster?</answer>
+			<answer type="wrong">idiot?</answer>
+			
+		</part>
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">No, Camelot's a myth, and Guinevere's a slut</lyrics>
+			<lyrics line="two">So I'll jump into this mosh pit, pants sagging like</lyrics>
+			<answer type="correct">“What!”</answer>
+			<answer type="wrong">"Holler!"</answer>
+			<answer type="wrong">"Look!"</answer>
+			
+		</part>
+		
+		 <part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		 <part type="chorus" level="easy">
+			
+			<lyrics line="one">Still my self-referential introduction song</lyrics>
+			<lyrics line="two">Now you know the deal(true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">I'm MC Lars (true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		
+		<part type="chorus" level="easy">
+			
+			<lyrics line="one">The name's MC Lars now you know the deal</lyrics>
+			<lyrics line="two">(true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+	
+		</part>
+		
+		<part type="chorus" level="medium">
+			<lyrics line="one">I kill it on stage, with two DI's, why?</lyrics>
+			<lyrics line="two">Post-punk laptop rap is the new DIY</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>
+		
+		<part type="chorus" level="medium">
+			<lyrics line="one">(true player for real!)</lyrics>
+			<lyrics line="two">TPFR (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>
+		
+		
+		<part type="chorus" level="medium">
+			<lyrics line="one">I kill it on stage, with two DI's, why?</lyrics>
+			<lyrics line="two">Post-punk laptop rap is the new DIY</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>
+		
+		<part type="chorus" level="medium">
+			<lyrics line="one">TPFR (true player for real)</lyrics>
+			<lyrics line="two">TPFR (true player for real)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+			
+		</part>
+<part type="chorus" level="easy">
+    <lyrics line="one"></lyrics>
+    <lyrics line="two"></lyrics>
+    <answer type="correct"></answer>
+    <answer type="wrong"></answer>
+    <answer type="wrong"></answer>        
+</part>	
+		
+	</song>
+

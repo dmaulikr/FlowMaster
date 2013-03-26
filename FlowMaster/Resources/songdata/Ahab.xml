@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="Ahad" length="201" BPM="112" displayLoop="0" BPL="4">
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">Call me Ahab, what, monomaniac</lyrics>
+        <lyrics line="two" animationTag ="301">Obsessed with success unlike Steve</lyrics>
+        <answer type="correct">Wozniak</answer>
+        <answer type="wrong">Jobbs</answer>
+        <answer type="wrong">Harvey</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">On the hunt for this mammal that once took my leg</lyrics>
+        <lyrics line="two" animationTag ="301">With my warn down crew and my man</lyrics>
+        <answer type="correct">Queequeg</answer>
+        <answer type="wrong">MC Frontalot</answer>
+        <answer type="wrong">Jon Longley</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">"You're never going to find him!" He's a big sperm whale</lyrics>
+        <lyrics line="two" animationTag ="301">"The ocean is enormous!" Shut up, we're setting</lyrics>
+        <answer type="correct">sail</answer>
+        <answer type="wrong">tables</answer>
+        <answer type="wrong">boundaries</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">This scar that you see that runs down my face</lyrics>
+        <lyrics line="two" animationTag ="301">Has scarred my soul and inspired this</lyrics>
+        <answer type="correct">chase</answer>
+        <answer type="wrong">hunt</answer>
+        <answer type="wrong">adventure</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">Mental sickness has got me on the run</lyrics>
+        <lyrics line="two" animationTag ="301">Full speed ahead! This is American</lyrics>
+        <answer type="correct">fun</answer>
+        <answer type="wrong">joy</answer>
+        <answer type="wrong">hilarity</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">There is wisdom that is woe, so welcome to my life</lyrics>
+        <lyrics line="two" animationTag ="301">It was fine until Moby scarred me like a</lyrics>
+        <answer type="correct">knife</answer>
+        <answer type="wrong">sword</answer>
+        <answer type="wrong">zombie</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">Towards thee I sail, thou unconquering whale</lyrics>
+        <lyrics line="two" animationTag ="301">To stab my spear into your white</lyrics>
+        <answer type="correct">tail</answer>
+        <answer type="wrong">booty</answer>
+        <answer type="wrong">chin</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">The first one to stop him gets this gold doubloon</lyrics>
+        <lyrics line="two" animationTag ="301">Now excuse me while I go be melancholy in my</lyrics>
+        <answer type="correct">room!</answer>
+        <answer type="wrong">chair</answer>
+        <answer type="wrong">house</answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+	</part>  
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301">Peg leg, sperm whale, jaw bone, what!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301">Whale crash so fast</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Oh no, oh no!</lyrics>
+        <lyrics line="two" animationTag ="301">The ship's got a hole, plug it up, plug it up!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">"We're never going to find this white whale, Are we captain?"</lyrics>
+        <lyrics line="two" animationTag ="301">Hey Ishmael - can I call you annoying?</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>	
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">Grown up Beluga in the deep blue sea</lyrics>
+        <lyrics line="two" animationTag ="301">Swims so fast and swims so</lyrics>
+        <answer type="correct">free</answer>
+        <answer type="wrong">fast</answer>
+        <answer type="wrong">often</answer>		
+    </part>
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one" animationTag ="301">With the heaven above, Moby Dick stressing me</lyrics>
+        <lyrics line="two" animationTag ="301">And this crazy drenched crew</lyrics>
+        <answer type="correct">below</answer>
+        <answer type="wrong">gone</answer>
+        <answer type="wrong">away</answer>		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">Call it idiot pride, or call me Oedipus</lyrics>
+        <lyrics line="two" animationTag ="301">My main tragic flaw: "But what about</lyrics>
+        <answer type="correct">us?"</answer>
+        <answer type="wrong">Celia?"</answer>
+        <answer type="wrong">Bill Gates?"</answer>		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">It's your battle too, crew, man vs. beast</lyrics>
+        <lyrics line="two" animationTag ="301">At least have respect as we sail south and</lyrics>
+        <answer type="correct">east</answer>
+        <answer type="wrong">north</answer>
+        <answer type="wrong">west</answer>
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">And north and west, look I'm doing my best</lyrics>
+        <lyrics line="two" animationTag ="301">While the rain keeps pouring we're exhausted and</lyrics>
+        <answer type="correct">stressed</answer>
+        <answer type="wrong">tired</answer>
+        <answer type="wrong">hungry</answer>		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">Pip went insane when he almost drowned,</lyrics>
+        <lyrics line="two" animationTag ="301">So profound when he shrieks like a little sailor</lyrics>
+        <answer type="correct">clown</answer>
+        <answer type="wrong">dancer</answer>
+        <answer type="wrong">gangster</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">Random ships we met warned us of our doom</lyrics>
+        <lyrics line="two" animationTag ="301">They said our boat would be our</lyrics>
+        <answer type="correct">tomb</answer>
+        <answer type="wrong">end</answer>
+        <answer type="wrong">destruction</answer>		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">Near the Mariana Trench, deep and oceanic</lyrics>
+        <lyrics line="two" animationTag ="301">We spotted Moby Dick so white and</lyrics>
+        <answer type="correct">titanic</answer>
+        <answer type="wrong">ginormous</answer>
+        <answer type="wrong">massive</answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301">Peg leg, sperm whale, jaw bone, what!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301">Whale crash so fast</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Oh no, oh no!</lyrics>
+        <lyrics line="two" animationTag ="301">The ship's got a hole, plug it up, plug it up!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301">Peg leg, sperm whale, jaw bone, what!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301">Whale crash so fast</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Oh no, oh no!</lyrics>
+        <lyrics line="two" animationTag ="301">The ship's got a hole, plug it up, plug it up!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">I said, "You took my leg, and for that you must die!"</lyrics>
+        <lyrics line="two" animationTag ="301">I threw my spear and hit Moby in the</lyrics>
+        <answer type="correct">eye</answer>
+        <answer type="wrong">nose</answer>
+        <answer type="wrong">arm</answer>		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">He charged the boat, it began to sink</lyrics>
+        <lyrics line="two" animationTag ="301">I said, :How about that? Hubris really</lyrics>
+        <answer type="correct">stinks!</answer>
+        <answer type="wrong">blows!</answer>
+        <answer type="wrong">confuses!</answer>		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one" animationTag ="301">I didn't think that it would end like this</lyrics>
+        <lyrics line="two" animationTag ="301">Pride met fate, this captain got</lyrics>
+        <answer type="correct">dissed</answer>
+        <answer type="wrong">dstroyed</answer>
+        <answer type="wrong">slapped</answer>		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one" animationTag ="301">Let it be a lesson, revenge is never sweet</lyrics>
+        <lyrics line="two" animationTag ="301">So I stomp my peg to this Supergrass</lyrics>
+        <answer type="correct">beat!</answer>
+        <answer type="wrong">jam!</answer>
+        <answer type="wrong">song!</answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301">Peg leg, sperm whale, jaw bone, what!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301">Whale crash so fast</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Oh no, oh no!</lyrics>
+        <lyrics line="two" animationTag ="301">The ship's got a hole, plug it up, plug it up!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301">Peg leg, sperm whale, jaw bone, what!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301">Whale crash so fast</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Oh no, oh no!</lyrics>
+        <lyrics line="two" animationTag ="301">The ship's got a hole, plug it up, plug it up!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">Got a low low feeling around me</lyrics>
+        <lyrics line="two" animationTag ="301">Bad trip thanks to Moby Dick!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And a stone cold feeling inside</lyrics>
+        <lyrics line="two" animationTag ="301"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>		
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301">And I just can't stop messing my mind up</lyrics>
+        <lyrics line="two" animationTag ="301"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+    
+
+    <part type="chorus" level="easy">
+        <lyrics line="one" animationTag ="301"></lyrics>
+        <lyrics line="two" animationTag ="301"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+</song>

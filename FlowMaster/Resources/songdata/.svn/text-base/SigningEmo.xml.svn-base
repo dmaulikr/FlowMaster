@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="Signing Emo" length="217" BPM="110" displayLoop="7" BPL="4">
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Meet Marty, major label A and R scout</lyrics>
+        <lyrics line="two">Forty years old, gut hanging</lyrics>
+        <answer type="correct">out</answer>
+        <answer type="wrong">forward</answer>
+        <answer type="wrong">hardcore</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Red Ferrari, Marty living in L.A.</lyrics>
+        <lyrics line="two">Bumps another line to get through the</lyrics>
+        <answer type="correct">day</answer>
+        <answer type="wrong">week</answer>
+        <answer type="wrong">pain</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Dumped by his girl, he paid for her liposuction</lyrics>
+        <lyrics line="two">His friends call him Money in his</lyrics>
+        <answer type="correct">introduction</answer>
+        <answer type="wrong">greeting</answer>
+        <answer type="wrong">social media</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">And Marty knows nothing but claims to know it all</lyrics>
+        <lyrics line="two">Lose the flat screen TV if he drops the</lyrics>
+        <answer type="correct">ball</answer>
+        <answer type="wrong">band</answer>
+        <answer type="wrong">story</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">You're as good as your last hit, find the next big thing</lyrics>
+        <lyrics line="two">If he doesn't bring the bling, his cell phone won't</lyrics>
+        <answer type="correct">ring</answer>
+        <answer type="wrong">buzz</answer>
+        <answer type="wrong">work</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="medium">
+        <lyrics line="one">What's the trend, what's new? What's a label scout to do?</lyrics>
+        <lyrics line="two">Office life, Marty</lyrics>
+        <answer type="correct">11:32</answer>
+        <answer type="wrong">11:45</answer>
+        <answer type="wrong">12:21</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">The label pres. calls and yells, "Sign more emo!"</lyrics>
+        <lyrics line="two">How about screamo? "If it sells, sign</lyrics>
+        <answer type="correct">Nemo</answer>
+        <answer type="wrong">Skrillex</answer>
+        <answer type="wrong">Paramore</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="medium">
+        <lyrics line="one">"We're down 2%, and BMG knows,</lyrics>
+        <lyrics line="two">My Daughter likes Dashboard, so get me one of</lyrics>
+        <answer type="correct">those!"</answer>
+        <answer type="wrong">them!"</answer>
+        <answer type="wrong">it!"</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">He checks AP.net, the Scout and more</lyrics>
+        <lyrics line="two">Yelling band names to his assistant through the</lyrics>
+        <answer type="correct">door</answer>
+        <answer type="wrong">window</answer>
+        <answer type="wrong">office</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">The kids like this, who cares if it's great?</lyrics>
+        <lyrics line="two">So he signs a band called Hearts that</lyrics>
+        <answer type="correct">Hate</answer>
+        <answer type="wrong">Love</answer>
+        <answer type="wrong">Share</answer>
+		
+    </part>
+
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Cry</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">die...</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+<part type="chorus" level="easy">
+    <lyrics line="one">My heart's in your hands</lyrics>
+    <lyrics line="two">I won't let you</lyrics>
+    <answer type="correct"></answer>
+    <answer type="wrong"></answer>
+    <answer type="wrong"></answer>
+    
+</part>	
+
+
+<part type="rhyme" level="medium">
+    <lyrics line="one">Hearts that Hate, Marty goes to their show,</lyrics>
+    <lyrics line="two">Up in the club and here we</lyrics>
+    <answer type="correct">go</answer>
+    <answer type="wrong">begin</answer>
+    <answer type="wrong">see</answer>
+    
+</part>
+
+<part type="rhyme" level="hard">
+    <lyrics line="one">Marty sees a girl in a Simple Plan shirt</lyrics>
+    <lyrics line="two">With a Senses Fail boy, ha! that'll never</lyrics>
+    <answer type="correct">work</answer>
+    <answer type="wrong">happen</answer>
+    <answer type="wrong">be awesome</answer>
+    
+</part>
+
+<part type="rhyme" level="medium">
+    <lyrics line="one">He finds his label friends in the corner they huddle</lyrics>
+    <lyrics line="two">An emo cattle auction, they penetrate the</lyrics>
+    <answer type="correct">bubble</answer>
+    <answer type="wrong">posse</answer>
+    <answer type="wrong">crew</answer>
+    
+</part>
+
+<part type="rhyme" level="medium">
+    <lyrics line="one">They talk about Victory and signing TBS</lyrics>
+    <lyrics line="two">Dissing the same bands they just tried to</lyrics>
+    <answer type="correct">impress</answer>
+    <answer type="wrong">buy</answer>
+    <answer type="wrong">invite</answer>
+    
+</part>
+<part type="rhyme" level="medium">
+    <lyrics line="one">So the lights go down, the crowd starts to scream</lyrics>
+    <lyrics line="two">Hearts that Hate have hit the</lyrics>
+    <answer type="correct">scene</answer>
+    <answer type="wrong">stage</answer>
+    <answer type="wrong">big time</answer>
+    
+</part>
+
+
+<part type="rhyme" level="medium">
+    <lyrics line="one">Blake on vocals, and lead guitar</lyrics>
+    <lyrics line="two">He does a backflip, "Look how different</lyrics>
+    <answer type="correct">we are!"</answer>
+    <answer type="wrong">I am!"</answer>
+    <answer type="wrong">this is!"</answer>
+    
+</part>
+
+<part type="rhyme" level="easy">
+    <lyrics line="one">They show up at the studio to record it</lyrics>
+    <lyrics line="two">A TRL, Billboard Modern</lyrics>
+    <answer type="correct">Rock hit</answer>
+    <answer type="wrong">Rap single</answer>
+    <answer type="wrong">Pop jam</answer>
+    
+</part>
+
+<part type="rhyme" level="easy">
+    <lyrics line="one">They auto-tune Blake, but he can't tell</lyrics>
+    <lyrics line="two">He says, "I've got perfect pitch, damn I sing</lyrics>
+    <answer type="correct">well"</answer>
+    <answer type="wrong">amazingly"</answer>
+    <answer type="wrong">accurately"</answer>
+    
+</part>
+
+<part type="rhyme" level="medium">
+    <lyrics line="one">ProTools, Logic, cut, copy, paste,</lyrics>
+    <lyrics line="two">Quantized solos and quantized</lyrics>
+    <answer type="correct">bass</answer>
+    <answer type="wrong">drums</answer>
+    <answer type="wrong">keyboards</answer>
+    
+</part>
+
+<part type="rhyme" level="easy">
+    <lyrics line="one">Signed, sealed, delivered and sent,</lyrics>
+    <lyrics line="two">Across the U.S. and the single</lyrics>
+    <answer type="correct">went</answer>
+    <answer type="wrong">goes</answer>
+    <answer type="wrong">was</answer>
+    
+</part>
+
+
+    <part type="chorus" level="easy">
+        <lyrics line="one">Cry</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">die...</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Momentum builds, but it all caves in</lyrics>
+        <lyrics line="two">Industrial comes back, the pres. needs a</lyrics>
+        <answer type="correct">NIN</answer>
+        <answer type="wrong">Skrillex</answer>
+        <answer type="wrong">Yelawolf</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one">Marty finds a new band called "Fetal Coil"</lyrics>
+        <lyrics line="two">And Hearts that Hate try to keep their fans</lyrics>
+        <answer type="correct">loyal</answer>
+        <answer type="wrong">aware</answer>
+        <answer type="wrong">invested</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one">They re-work their sound for album number two</lyrics>
+        <lyrics line="two">As "Machines of Hate" but their career is</lyrics>
+        <answer type="correct">through</answer>
+        <answer type="wrong">over</answer>
+        <answer type="wrong">finished</answer>
+        
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">They break up and work pushing mops and brooms</lyrics>
+        <lyrics line="two">Blake gives guitar lessons in his living</lyrics>
+        <answer type="correct">room</answer>
+        <answer type="wrong">spot</answer>
+        <answer type="wrong">residence</answer>
+        
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Blake gives guitar lessons in his living room</lyrics>
+        <lyrics line="two">Blake gives guitar lessons in his living room</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">“Can you teach me track five Mr. Blake?”</lyrics>
+        <lyrics line="two">“Hey, I wrote that song and it goes like this!”</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+        <part type="chorus" level="easy">
+        <lyrics line="one">Cry</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">die...</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+   
+    <part type="chorus" level="easy">
+        <lyrics line="one">die...</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">die...</lyrics>
+        <lyrics line="two">tonight...</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">My hands around your hands</lyrics>
+        <lyrics line="two">I won't let you</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+
+
+</song>
+

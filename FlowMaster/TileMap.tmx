@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <tileset firstgid="49" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <properties>
+   <property name="" value=""/>
+  </properties>
+  <image source="meta_tiles.png" width="67" height="34"/>
+  <tile id="0">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0zsKhEAQBNC5hiu4LCZ+Au9/uzUcGgM/ga284EU1QRXNdKWUjpSa1eeANkHnLb+D7/sEnffu+L5kx1PvEf9Anccs645xNQV1HrM5Qec3Gi66u3+0nMwAAAAAAAAA4On+QM4mDw==
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="50" height="50">
+  <object name="SpawnPoint" x="16" y="198" width="45" height="35"/>
+ </objectgroup>
+ <layer name="Meta" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1NEJACAIBcBWav/l2kBIClTuoP/3SF2LqnbiVXSbS4+/JvWI5r/Tfkzo0V3m3lb+kyhTxbwAAAAAAAAA8MoBeusK6g==
+  </data>
+ </layer>
+</map>

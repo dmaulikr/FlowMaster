@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>texture</key>
+	<dict>
+		<key>width</key>
+		<integer>1024</integer>
+		<key>height</key>
+		<integer>1024</integer>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>bubble 1.png</key>
+		<dict>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>1</integer>
+			<key>width</key>
+			<integer>252</integer>
+			<key>height</key>
+			<integer>236</integer>
+			<key>offsetX</key>
+			<real>34</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>320</integer>
+			<key>originalHeight</key>
+			<integer>236</integer>
+		</dict>
+		<key>bubble 2.png</key>
+		<dict>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>238</integer>
+			<key>width</key>
+			<integer>252</integer>
+			<key>height</key>
+			<integer>236</integer>
+			<key>offsetX</key>
+			<real>34</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>320</integer>
+			<key>originalHeight</key>
+			<integer>236</integer>
+		</dict>
+		<key>bubble 3.png</key>
+		<dict>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>475</integer>
+			<key>width</key>
+			<integer>270</integer>
+			<key>height</key>
+			<integer>236</integer>
+			<key>offsetX</key>
+			<real>25</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>320</integer>
+			<key>originalHeight</key>
+			<integer>236</integer>
+		</dict>
+		<key>bubble 4.png</key>
+		<dict>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>712</integer>
+			<key>width</key>
+			<integer>300</integer>
+			<key>height</key>
+			<integer>236</integer>
+			<key>offsetX</key>
+			<real>10</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>320</integer>
+			<key>originalHeight</key>
+			<integer>236</integer>
+		</dict>
+		<key>bubble 5.png</key>
+		<dict>
+			<key>x</key>
+			<integer>302</integer>
+			<key>y</key>
+			<integer>1</integer>
+			<key>width</key>
+			<integer>320</integer>
+			<key>height</key>
+			<integer>236</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>320</integer>
+			<key>originalHeight</key>
+			<integer>236</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song name="igeneration" length="173" BPM="120" displayLoop="4" BPL="4">
+		<part type="rhyme" level="easy">			
+			<lyrics line="one" animationTag = "501">And people tried to put us down</lyrics>
+			<lyrics line="two" animationTag ="1">When iTunes bumped a post-Cold War</lyrics>
+			<answer type="correct">sound</answer>
+			<answer type="wrong">fight</answer>
+			<answer type="wrong">event</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">My generation sat at the Mecca of malls</lyrics>
+			<lyrics line="two" animationTag ="2">Times Square, I'm there, Viacom</lyrics>
+			<answer type="correct">installs</answer>
+			<answer type="wrong">explodes</answer>
+			<answer type="wrong">deletes</answer>
+		</part>
+		<part type="rhyme" level="easy">
+            <lyrics line="one">So we hit the net while the Trade Center fell</lyrics>
+			<lyrics line="two">New York met Hollywood, we ran like</lyrics>
+			<answer type="correct">hell</answer>
+			<answer type="wrong">crazy</answer>
+			<answer type="wrong">look</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">No Vietnam for us, yo, Iraq it's on</lyrics>
+			<lyrics line="two" animationTag ="3">So who agreed upon this cowboy Genghis</lyrics>
+			<answer type="correct">Khan</answer>
+			<answer type="wrong">Williams</answer>
+			<answer type="wrong">slam</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">The choice made, baby. Hey we'd take it back</lyrics>
+			<lyrics line="two">logged in dropped out, MTV took</lyrics>
+			<answer type="correct">track</answer>
+			<answer type="wrong">money</answer>
+			<answer type="wrong">chances</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">They sold it back to us and claimed no correlation</lyrics>
+			<lyrics line="two" animationTag ="4">The iMac, iPod,</lyrics>
+			<answer type="correct">iGeneration</answer>
+			<answer type="wrong">iPhone</answer>
+			<answer type="wrong">iExpenses</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">And I'm waiting for the day we can get out</lyrics>
+			<lyrics line="two">The world is ours, that's the story no</lyrics>
+			<answer type="correct">doubt</answer>
+			<answer type="wrong">way</answer>
+			<answer type="wrong">secrets</answer>
+		</part>
+		<part type="rhyme" level="medium">						
+			<lyrics line="one">Want to be more than info super highway traffic</lyrics>
+			<lyrics line="two">Want to be more than a walking</lyrics>
+			<answer type="correct">demographic</answer>
+			<answer type="wrong">retrospective</answer>
+			<answer type="wrong">visitation</answer>
+		</part>           
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>  
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>        
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">See the iGeneration knew organization</lyrics>
+			<lyrics line="two">meant optimization and</lyrics>
+			<answer type="correct">unification</answer>
+			<answer type="wrong">explosions</answer>
+			<answer type="wrong">answers</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one" animationTag ="5">When imagination gave participation</lyrics>
+			<lyrics line="two">In creation of culture a</lyrics>
+			<answer type="correct">manifestation</answer>
+			<answer type="wrong">memory</answer>
+			<answer type="wrong">dream</answer>
+		</part>
+		<part type="rhyme" level="medium">			
+			<lyrics line="one">The Berlin Wall fell and out we came</lyrics>
+			<lyrics line="two">The post-Cold War kids laid claim to</lyrics>
+			<answer type="correct">AIM</answer>
+			<answer type="wrong">money</answer>
+			<answer type="wrong">fish</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">LOL, OMG, yo, BRB</lyrics>
+			<lyrics line="two" animationTag ="6">Space, colon, dash, closed</lyrics>
+			<answer type="correct">parentheses</answer>
+			<answer type="wrong">toy stores</answer>
+			<answer type="wrong">connections</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one" animationTag ="7">We sat at our laptops and typed away</lyrics>
+			<lyrics line="two">and found that we each had something to</lyrics>
+			<answer type="correct">say</answer>
+			<answer type="wrong">admit</answer>
+			<answer type="wrong">prove</answer>
+		</part>
+		<part type="rhyme" level="easy">			
+			<lyrics line="one">Web-logged our fears, our hopes and dreams</lyrics>
+			<lyrics line="two">Individuated by digital</lyrics>
+			<answer type="correct">means</answer>
+			<answer type="wrong">candles</answer>
+			<answer type="wrong">stories</answer>
+		</part>
+		<part type="rhyme" level="medium">			
+			<lyrics line="one">Fiber optic lenses, DVD</lyrics>
+			<lyrics line="two">Coca Cola, Disney and</lyrics>
+			<answer type="correct">Mickey D's</answer>
+			<answer type="wrong">In-N-Out</answer>
+			<answer type="wrong">turtles</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one" animationTag ="8">Flat mass culture, the norm that took hold</lyrics>
+			<lyrics line="two">I hope I die before I get</lyrics>
+			<answer type="correct">sold</answer>
+			<answer type="wrong">murdered</answer>
+			<answer type="wrong">candy</answer>
+		</part>        
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">			
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>               
+		<part type="rhyme" level="medium">			
+			<lyrics line="one">This is the</lyrics>
+			<lyrics line="two">I-N-T-</lyrics>
+			<answer type="correct">E</answer>
+			<answer type="wrong">O</answer>
+			<answer type="wrong">A</answer>
+		</part>
+		<part type="rhyme" level="medium">
+            <lyrics line="one">R-N-E-T</lyrics>
+			<lyrics line="two">ge-na-ra-tion,</lyrics>
+			<answer type="correct">See</answer>
+			<answer type="wrong">Look</answer>
+			<answer type="wrong">Right?</answer>
+		</part>       
+        <part type="chorus" level="medium">			
+			<lyrics line="one">This is the</lyrics>
+			<lyrics line="two">I-N-T-E</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="chorus" level="medium">			
+			<lyrics line="one">R-N-E-T</lyrics>
+			<lyrics line="two">ge-na-ra-tion, See</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>    
+        <part type="chorus" level="easy">			
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">			
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>  
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>  
+        <part type="chorus" level="easy">						
+			<lyrics line="one">"Hey! You're part of it"</lyrics>
+			<lyrics line="two">Talking about the iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">			
+			<lyrics line="one">"Yeah! You're part of it"</lyrics>
+			<lyrics line="two">Talking about my iGeneration</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+        <part type="chorus" level="easy">			
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>   
+        <part type="chorus" level="easy">			
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>  
+	</song>
+</songs>

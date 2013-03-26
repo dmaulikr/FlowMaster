@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="35 Laurel Drive" length="169" BPM="130" displayLoop="15" BPL="4">
+	
+	<part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+	<part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>
+    
+	<part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    <part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+	<part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>
+	
+    
+	
+	<part type="rhyme" level="medium">
+        <lyrics line="one">My drummer has a messy house</lyrics>
+        <lyrics line="two">And that is what this song's</lyrics>
+        <answer type="correct">about</answer>
+        <answer type="wrong">referencing</answer>
+        <answer type="wrong">regarding</answer>
+		
+	</part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">As I write these rhymes I'm starting to doubt</lyrics>
+        <lyrics line="two">This kid will ever take the garbage</lyrics>
+        <answer type="correct">out</answer>
+        <answer type="wrong">away</answer>
+        <answer type="wrong">home</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">The living room is full of cans</lyrics>
+        <lyrics line="two">The ping-pong table barely</lyrics>
+        <answer type="correct">stands</answer>
+        <answer type="wrong">sits</answer>
+        <answer type="wrong">chills</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">I guess he's too busy with other demands</lyrics>
+        <lyrics line="two">Like Game Cube and listening to pop punk</lyrics>
+        <answer type="correct">bands</answer>
+        <answer type="wrong">groups</answer>
+        <answer type="wrong">songs</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one">There's pizza boxes stacked in the living room</lyrics>
+        <lyrics line="two">No mops, no brooms, and no</lyrics>
+        <answer type="correct">vacuums</answer>
+        <answer type="wrong">DustBusters</answer>
+        <answer type="wrong">sponges</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Open the fridge and you might see</lyrics>
+        <lyrics line="two">Half a Mr. Pibb and some moldy</lyrics>
+        <answer type="correct">cheese</answer>
+        <answer type="wrong">ham</answer>
+        <answer type="wrong">apples</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Upstairs the toilet barely works</lyrics>
+        <lyrics line="two">That's just one of the many</lyrics>
+        <answer type="correct">perks</answer>
+        <answer type="wrong">things</answer>
+        <answer type="wrong">ammenities</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Last time it took me half an hour</lyrics>
+        <lyrics line="two">To figure out how to work his upstairs</lyrics>
+        <answer type="correct">shower</answer>
+        <answer type="wrong">sink</answer>
+        <answer type="wrong">toilet</answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>		
+	
+    <part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+	<part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>
+	
+    <part type="rhyme" level="easy">
+        <lyrics line="one">His house makes me think about</lyrics>
+        <lyrics line="two">All the things in life you can live</lyrics>
+        <answer type="correct">without</answer>
+        <answer type="wrong">next to</answer>
+        <answer type="wrong">with</answer>
+		
+    </part>
+	
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Like Internet, pens, tables and chairs</lyrics>
+        <lyrics line="two">There's mail stacked randomly on the</lyrics>
+        <answer type="correct">stairs</answer>
+        <answer type="wrong">couch</answer>
+        <answer type="wrong">porch</answer>
+		
+    </part>
+	
+    <part type="rhyme" level="hard">
+        <lyrics line="one">The bathroom door's falling off</lyrics>
+        <lyrics line="two">I went to the attic and started to</lyrics>
+        <answer type="correct">cough</answer>
+        <answer type="wrong">puke</answer>
+        <answer type="wrong">laugh</answer>
+		
+    </part>
+	
+    <part type="rhyme" level="medium">
+        <lyrics line="one">But every time a tour rolls by,</lyrics>
+        <lyrics line="two">you know we'll stay at Laurel</lyrics>
+        <answer type="correct">Drive</answer>
+        <answer type="wrong">Street</answer>
+        <answer type="wrong">Avenue</answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+	
+    <part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+	<part type="chorus" level="easy">
+        <lyrics line="one">My drummer has the messiest</lyrics>
+        <lyrics line="two">house in New Jersey</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+	
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+	
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">John Thatcher Longley,</lyrics>
+        <lyrics line="two">clean up your house</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+	</part>	
+	
+	
+	
+	
+	
+	
+	
+</song>

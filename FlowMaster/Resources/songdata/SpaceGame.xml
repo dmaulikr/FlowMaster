@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="SpaceGame" length="335" BPM="108" displayLoop="4" BPL="4">
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I broke through the carbonite that's how I got free</lyrics>
+			<lyrics line="two">Jabba, back up, because there's no stopping</lyrics>
+			<answer type="correct">me</answer>
+			<answer type="wrong">Lars</answer>
+			<answer type="wrong">rap</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Post-modern player, sample-tastic.</lyrics>
+			<lyrics line="two">Flow's ekphrastic, I get</lyrics>
+			<answer type="correct">drastic</answer>
+			<answer type="wrong">hyphy</answer>
+			<answer type="wrong">crazy</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Hey, watch the plastic, yo, I name check</lyrics>
+			<lyrics line="two">And leave you drowned in space</lyrics>
+			<answer type="correct">oobleck</answer>
+			<answer type="wrong">debris</answer>
+			<answer type="wrong">junk</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Player of the future, watch me go!</lyrics>
+			<lyrics line="two">Sith girls scream when they hear my</lyrics>
+			<answer type="correct">flow</answer>
+			<answer type="wrong">raps</answer>
+			<answer type="wrong">flavor</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">These alien chicks reproduce with spores</lyrics>
+			<lyrics line="two">So I go where no MC has gone</lyrics>
+			<answer type="correct">before</answer>
+			<answer type="wrong">ever</answer>
+			<answer type="wrong">recently</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Hey Fry, look, we can still be friends</lyrics>
+			<lyrics line="two">I won't ask Leela out</lyrics>
+			<answer type="correct">again.</answer>
+			<answer type="wrong">ever.</answer>
+			<answer type="wrong">tomorrow.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Sci-fi, I try, I fly solo</lyrics>
+			<lyrics line="two">Shoot your landspeeder up just like</lyrics>
+			<answer type="correct">Bolo</answer>
+			<answer type="wrong">Angry Birds</answer>
+			<answer type="wrong">FarmVille</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">“What's with Lars, and what's with his name?”</lyrics>
+			<lyrics line="two">Never mind that ish, 'cause I've got space</lyrics>
+			<answer type="correct">game!</answer>
+			<answer type="wrong">flavor!</answer>
+			<answer type="wrong">muscles!</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Darth Maul can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Boba Fett can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Vader can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Space player bowling up like dynamite</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Dr. Smith can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Q can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Even Hal can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Because I've got space game and it feels all right</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">In 2112, all the players play on</lyrics>
+			<lyrics line="two">Everyone bumps Rush and that “Tom Sawyer”</lyrics>
+			<answer type="correct">song</answer>
+			<answer type="wrong">jam</answer>
+			<answer type="wrong">joint</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">I took the red pill, and high fived Neo</lyrics>
+			<lyrics line="two">Hey what should I sample? “If it sells pick</lyrics>
+			<answer type="correct">Dio!"</answer>
+			<answer type="wrong">Wheatus!"</answer>
+			<answer type="wrong">MC Frontalot!"</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Yo Morpheus, look, you're a real cyber punk</lyrics>
+			<lyrics line="two">But your friend Trinity has junk in the</lyrics>
+			<answer type="correct">trunk</answer>
+			<answer type="wrong">basement</answer>
+			<answer type="wrong">suitcase</answer>
+		</part>
+		
+		!!!! - maybe we should take this one because it purposefully doesn't rhyme?
+		
+		<part type="rhyme" level="hard">
+			<lyrics line="one">And I'm from Mars, and she's from Venus</lyrics>
+			<lyrics line="two">She has ovaries and I have a light</lyrics>
+			<answer type="correct">saber</answer>
+			<answer type="wrong">suitcase</answer>
+			<answer type="wrong">load</answer>
+		</part>
+		
+		<part type="rhyme" level="medium">
+			<lyrics line="one">‘Cause I get more play than Captain Kirk</lyrics>
+			<lyrics line="two">He found out and went berserk like a jealous</lyrics>
+			<answer type="correct">jerk</answer>
+			<answer type="wrong">gangtsa</answer>
+			<answer type="wrong">player</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But no puny Vulcan death grip can paralyze me</lyrics>
+			<lyrics line="two">I said beam me up Scotty, and then I got</lyrics>
+			<answer type="correct">free</answer>
+			<answer type="wrong">stoked</answer>
+			<answer type="wrong">skrill</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Princess Leia said that my flows are tight</lyrics>
+			<lyrics line="two">So I said I supposed she can spend the</lyrics>
+			<answer type="correct">night</answer>
+			<answer type="wrong">week</answer>
+			<answer type="wrong">money</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">A long time ago in a galaxy far away…</lyrics>
+			<lyrics line="two">MC Lars got some space age</lyrics>
+			<answer type="correct">play!</answer>
+			<answer type="wrong">candy!</answer>
+			<answer type="wrong">books!</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">T1000 can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Magneto can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Even Zod can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">It's tight, don't even try to bite, the sci-fi style I incite</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Mr. Spock can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">The Wrath of Khan can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">The Borg can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Because I've got space game and it feels all right</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">This song is futuristic, so hardcore</lyrics>
+			<lyrics line="two">Hey T.S. Eliot! Please shut the</lyrics>
+			<answer type="correct">door</answer>
+			<answer type="wrong">chamber</answer>
+			<answer type="wrong">lid</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Because modernism is so passé</lyrics>
+			<lyrics line="two">The postmodern revolution is here to</lyrics>
+			<answer type="correct">stay</answer>
+			<answer type="wrong">remain</answer>
+			<answer type="wrong">be</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">In the house tonight because of Frank Lloyd Wright</lyrics>
+			<lyrics line="two">The bass goes “boom!” like</lyrics>
+			<answer type="correct">dynamite</answer>
+			<answer type="wrong">TNT</answer>
+			<answer type="wrong">explosive joy</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">“Yo, Wright was a modernist!” Yeah I know that, all right,</lyrics>
+			<lyrics line="two">But you can't rhyme “Bob Venturi" with</lyrics>
+			<answer type="correct">“dynamite”</answer>
+			<answer type="wrong">"lephrechauns"</answer>
+			<answer type="wrong">"Mike Tyson"</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">See it's Guernica Part II when I storm the stage</lyrics>
+			<lyrics line="two">I draw fans like Warhol draws soup cans on the</lyrics>
+			<answer type="correct">page</answer>
+			<answer type="wrong">canvas</answer>
+			<answer type="wrong">walls</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Did I say postmodern? Well, that was a lie!</lyrics>
+			<lyrics line="two">I've been post-postmodern since junior</lyrics>
+			<answer type="correct">high</answer>
+			<answer type="wrong">year</answer>
+			<answer type="wrong">mints</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Ezra Pound can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Virginia Wolfe can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Joseph Conrad can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">I excite the modern mind like a ray of light</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Franz Kafka can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">Wallace Stevens can't stop me (I'm on fire tonight)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">E.E. Cummings can't stop me (I'm on fire tonight)</lyrics>
+			<lyrics line="two">I've got postmodern game and it feels all right</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Yes I'm an alien, Yes I'm an alien</lyrics>
+			<lyrics line="two">Yes I'm an alien, I come from outer space</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Yes I'm an alien, Yes I'm an alien</lyrics>
+			<lyrics line="two">Yes I'm an alien, I came to rock this place</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

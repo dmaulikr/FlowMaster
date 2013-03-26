@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="This Gigantic Robot Kills" length="169" BPM="151" displayLoop="2" BPL="8">
+	
+	<part type="rhyme" level="medium">
+        <lyrics line="one">Billy built a robot in his parents' garage</lyrics>
+        <lyrics line="two">Because he had a list of problems that he needed to</lyrics>
+        <answer type="correct">solve</answer>
+        <answer type="wrong">figure out</answer>
+        <answer type="wrong">decipher</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">He said I'm sick of The Hills, Laguna Beach is fake and whack</lyrics>
+        <lyrics line="two">Let's party like it's '96 and bring the horn section</lyrics>
+        <answer type="correct">back</answer>
+        <answer type="wrong">here</answer>
+        <answer type="wrong">on</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Back before Gwen Stefani started rapping with Pharrell</lyrics>
+        <lyrics line="two">Gas cost $1.15 and Goldfinger could</lyrics>
+        <answer type="correct">sell</answer>
+        <answer type="wrong">bank</answer>
+        <answer type="wrong">sing</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">When reality TV wasn't scripted or contrived</lyrics>
+        <lyrics line="two">The brass was fat and bumping and the beats were all played</lyrics>
+        <answer type="correct">live</answer>
+        <answer type="wrong">organically</answer>
+        <answer type="wrong">frequently</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">See Billy was obsessed with third wave ska</lyrics>
+        <lyrics line="two">Less Than Jake, Reel Big Fish, Less than Jake he'd seen them</lyrics>
+        <answer type="correct">all</answer>
+        <answer type="wrong">play</answer>
+        <answer type="wrong">live</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">He longed for a time when Bill played the sax</lyrics>
+        <lyrics line="two">On the White House lawn and kids wore shades and checkered</lyrics>
+        <answer type="correct">slacks</answer>
+        <answer type="wrong">shoes</answer>
+        <answer type="wrong">shorts</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Billy sits back in the class and laughs with a notepad on his lap as he plans his task</lyrics>
+        <lyrics line="two">To make a giant robot, how's that, and bring the real Orange County</lyrics>
+        <answer type="correct">back!</answer>
+        <answer type="wrong">again!</answer>
+        <answer type="wrong">here!</answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">This gigantic robot kills He's gonna</lyrics>
+        <lyrics line="two">come down the block he's going to fire at will He's got</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    <part type="chorus" level="easy">
+        <lyrics line="one">a cannon on his shoulder and a laser in his hand, he's gonna</lyrics>
+        <lyrics line="two">win the day for Billy make the city understand</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">The robot was completed and it opened up its eyes</lyrics>
+        <lyrics line="two">Weighing 700 pounds and standing 8 foot</lyrics>
+        <answer type="correct">5</answer>
+        <answer type="wrong">8</answer>
+        <answer type="wrong">6</answer>
+		
+    </part>
+    
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">With his black coat, black shoes, black hat, set to attack</lyrics>
+        <lyrics line="two">He headed to the hills to give those spoiled kids a</lyrics>
+        <answer type="correct">smack!</answer>
+        <answer type="wrong">hit!</answer>
+        <answer type="wrong">noogie!?</answer>
+		
+    </part>
+    
+	
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Kristin Cavallari got knocked flat, ss Billy bumped the aquabats</lyrics> 
+        <lyrics line="two">He ripped out Mischa Barton's spine, as he cranked Save Ferris and</lyrics>
+        <answer type="correct">Sublime</answer>
+        <answer type="wrong">Pantera</answer>
+        <answer type="wrong">Amphoteric</answer>
+		
+    </part>
+    
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">He burned down Heidi Montag's home as he bumped the O.C. Supertones</lyrics>
+        <lyrics line="two">He screamed while smashing L.C.'s head, "SKA IS NOT</lyrics>
+        <answer type="correct">DEAD!</answer>
+        <answer type="wrong">OVER!</answer>
+        <answer type="wrong">GONE!</answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">This gigantic robot kills He's gonna</lyrics>
+        <lyrics line="two">come down the block he's going to fire at will He's got</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    <part type="chorus" level="easy">
+        <lyrics line="one">a cannon on his shoulder and a laser in his hand, he's gonna</lyrics>
+        <lyrics line="two">win the day for Billy make the city understand</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two">He'll make you do the</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+	
+    
+    
+    <part type="chorus" level="medium">
+        <lyrics line="one">Macarena as you rock your Tamagotchi With his Newton down</lyrics>
+        <lyrics line="two">in Woodstock playing Sega, la-di-da-di. He brought</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+		
+    </part>
+    
+    <part type="chorus" level="hard">
+        <lyrics line="one">the 90's back and then he freed Tibet. If you can't find this jam</lyrics>
+        <lyrics line="two">on Napster then the Wherehouse sells cassettes.</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+		
+    </part>
+    
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Gigantic (he was) Gigantic (this robot)</lyrics>
+        <lyrics line="two">Gigantic (so very) Gigantic (ska robot!!)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">This gigantic robot kills He's gonna come down</lyrics>
+        <lyrics line="two">the block he's going to fire at will. He's got a cannon on</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    <part type="chorus" level="easy">
+        <lyrics line="one">his shoulder and a laser in his hand He's gonna win the </lyrics>
+        <lyrics line="two">day for Billy make the city understand This</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">gigantic robot kills He's gonna come down</lyrics>
+        <lyrics line="two">the block he's going to fire at will. He's blasting bullets</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">from his elbows, shooting missiles from his eyes He's gonna win the day</lyrics>
+        <lyrics line="two">for Billy take the whole world by surprise</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+	
+	
+	
+</song>

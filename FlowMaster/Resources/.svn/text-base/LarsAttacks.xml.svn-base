@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="LarsAttacks" length="224" BPM="105.5" displayLoop="9" BPL="4">
+		<part type="rhyme" level="hard">
+			<lyrics line="one">I landed in the forest in a 94 Taurus,</lyrics>
+			<lyrics line="two">2,000 light years from my planet Lars</lyrics>
+			<answer type="correct">Horris</answer>
+			<answer type="wrong">Nielsen</answer>
+			<answer type="wrong">Williams</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Came dizzy out the craft, head spinning, legs akimbo,</lyrics>
+			<lyrics line="two">MC phone home but couldn't get a</lyrics>
+			<answer type="correct">signal.</answer>
+			<answer type="wrong">connection.</answer>
+			<answer type="wrong">answer.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Lost on Earth with a broken hovercraft</lyrics>
+			<lyrics line="two">A head full of raps and a super rough</lyrics>
+			<answer type="correct">draft</answer>
+			<answer type="wrong">version</answer>
+			<answer type="wrong">solution</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Of a Reason 4.0 beat that couldn't finish,</lyrics>
+			<lyrics line="two">Quit it for a minute, still in the game to </lyrics>
+			<answer type="correct">win it.</answer>
+			<answer type="wrong">rock it.</answer>
+			<answer type="wrong">be victorious.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Your brother knows me, he saw me on the news,</lyrics>
+			<lyrics line="two">The FBI is sweating me the cults all say it's</lyrics>
+			<answer type="correct">true,</answer>
+			<answer type="wrong">correct,</answer>
+			<answer type="wrong">accurate,</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Before I landed in your city and I started melting faces</lyrics>
+			<lyrics line="two">I was up on Cygnus, working on my</lyrics>
+			<answer type="correct">spaceship</answer>
+			<answer type="wrong">space craft,</answer>
+			<answer type="wrong">saucer,</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Earth is not my home but I guess I'll stay,</lyrics>
+			<lyrics line="two">I really couldn't find a Martian sublet</lyrics>
+			<answer type="correct">anyway,</answer>
+			<answer type="wrong">apparently,</answer>
+			<answer type="wrong">at all,</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Back with a ginormous space laser on my back</lyrics>
+			<lyrics line="two">With my finger on the trigger city setting set to</lyrics>
+			<answer type="correct">flat.</answer>
+			<answer type="wrong">destruction.</answer>
+			<answer type="wrong">game over.</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I came to chew gum and I came to kick raps </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But I'm all out of gum so now Lars Attacks! </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I came to smash houses and I came to rock tracks </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Now this block's been demolished so Lars Attacks! </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">You don't know me from Adam, Xenu or Bender</lyrics>
+			<lyrics line="two">ET or Weezy or Roger</lyrics>
+			<answer type="correct">remember,</answer>
+			<answer type="wrong">you know, y'all?</answer>
+			<answer type="wrong">Rabbit</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Just like a giant octopus I'm basically innocuous</lyrics>
+			<lyrics line="two">I've kicked it with Egyptians and I've chilled in a</lyrics>
+			<answer type="correct">sarcophagus.</answer>
+			<answer type="wrong">motel.</answer>
+			<answer type="wrong">canyon.</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Stonehenge, Roswell, the Aztecs, the Mayans,</lyrics>
+			<lyrics line="two">Crop circles, cattle mutilations, Easter</lyrics>
+			<answer type="correct">Island,</answer>
+			<answer type="wrong">Sunday,</answer>
+			<answer type="wrong">weekend,</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">That was me (holler), but I don't regret it,</lyrics>
+			<lyrics line="two">They sold a lot of tabloids now it's out because</lyrics>
+			<answer type="correct">I said it.</answer>
+			<answer type="wrong">it's all true.</answer>
+			<answer type="wrong">it happened.</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Don't let it get to you, because I ate your goldfish</lyrics>
+			<lyrics line="two">'Cause I burned your house down, took your cat in</lyrics>
+			<answer type="correct">sold it'</answer>
+			<answer type="wrong">skinned it'</answer>
+			<answer type="wrong">ate it'</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">This is hard-core alien hip-hop, </lyrics>
+			<lyrics line="two">going on ten years not about to</lyrics>
+			<answer type="correct">stop</answer>
+			<answer type="wrong">Quit</answer>
+			<answer type="wrong">give uq</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Watch the Milky Way collapse like a Carl Sagan nightmare</lyrics>
+			<lyrics line="two">Stephen Hawking's texting me, I'm floating like Buzz</lyrics>
+			<answer type="correct">Lightyear</answer>
+			<answer type="wrong">Aldrin</answer>
+			<answer type="wrong">Michaels</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">To infinity, beyond, and back bought the t-shirt,</lyrics>
+			<lyrics line="two">Got Wall-E in my rear view telling me his knees</lyrics>
+			<answer type="correct">hurt...</answer>
+			<answer type="wrong">broke...</answer>
+			<answer type="wrong">quit...</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">What? No we didn't have sex!</lyrics>
+			<lyrics line="two">Wall-E's a robot so we can’t have sex!</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I came to meet Jodi and make "Contact" </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But SETI crashed my Mac so Lars Attacks! </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I came to rep the Bay and kick it with the Pack </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But space men aren't hyphy so now Lars Attacks! </lyrics>
+			<lyrics line="two">(Lars Attacks! Lars Attacks!)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

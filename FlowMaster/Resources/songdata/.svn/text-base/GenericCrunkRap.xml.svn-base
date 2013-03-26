@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song name="Generic Crunk Rap" length="182" BPM="74" displayLoop="7" BPL="4">
+	
+    
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Phrase about my gun, rhyme about my loot</lyrics>
+        <lyrics line="two">Phrase about these haters I sometimes have to</lyrics>
+        <answer type="correct">shoot</answer>
+        <answer type="wrong">murder</answer>
+        <answer type="wrong">destroy</answer>
+		
+    </part>
+    
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Rhyme about my clothes, props to my hometown</lyrics>
+        <lyrics line="two">Lyrics that say nothing – cause that's how we get</lyrics>
+        <answer type="correct">down</answer>
+        <answer type="wrong">hyphy</answer>
+        <answer type="wrong">crazy</answer>
+		
+    </part>
+	
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Phrase about my clique, don't step to me punk</lyrics>
+        <lyrics line="two">Gratuitous rhyme about keeping it</lyrics>
+        <answer type="correct">crunk</answer>
+        <answer type="wrong">joful</answer>
+        <answer type="wrong">hilarious</answer>
+		
+    </part>
+    
+	<part type="rhyme" level="easy">
+        <lyrics line="one">Big ups to our genre, we do it our own way</lyrics>
+        <lyrics line="two">It's just too bad our songs don't have anything to</lyrics>
+        <answer type="correct">say!</answer>
+        <answer type="wrong">express!</answer>
+        <answer type="wrong">discuss!</answer>
+		
+    </part>
+	
+	<part type="chorus" level="easy">
+        <lyrics line="one">Generic crunk rap! (What) Generic crunk rap! (Yeah)</lyrics>
+        <lyrics line="two">Generic crunk rap! (What) We don't mess around</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Generic crunk rap! (Yeah) Generic crunk rap! (What)</lyrics>
+        <lyrics line="two">Generic crunk rap! (Yeah) You like our dirty sound</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Buy cars (Get crunk) Take shots (Get crunk)</lyrics>
+        <lyrics line="two">Have sex (Get crunk) Spend money (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Buy cars (Get crunk) Take shots (Get crunk)</lyrics>
+        <lyrics line="two">Have sex (Get crunk) Spend money (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Phrase about my car, rhyme about my crew</lyrics>
+        <lyrics line="two">Rap about how much more crunk I am than</lyrics>
+        <answer type="correct">you</answer>
+        <answer type="wrong">y'all</answer>
+        <answer type="wrong">Lil Wayne</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="easy">
+        <lyrics line="one">Rhyme about my rims, rhyme about my bling</lyrics>
+        <lyrics line="two">Chorus where I scream cause I don't know how to</lyrics>
+        <answer type="correct">sing</answer>
+        <answer type="wrong">rap</answer>
+        <answer type="wrong">flow</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="medium">
+        <lyrics line="one">Rhyme supporting guns, and also drinking 40s</lyrics>
+        <lyrics line="two">Misogynist rhyme about banging lots of</lyrics>
+        <answer type="correct">shorties</answer>
+        <answer type="wrong">nails</answer>
+        <answer type="wrong">tragets</answer>
+		
+    </part>
+    
+    <part type="rhyme" level="hard">
+        <lyrics line="one">Rhyme about my dough, and then some made up lyrics</lyrics>
+        <lyrics line="two">Get off the gas you swinga, check the deuce, yo</lyrics>
+        <answer type="correct">sabiirit</answer>
+        <answer type="wrong">man</answer>
+        <answer type="wrong">homie</answer>
+		
+    </part>
+    
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Generic crunk rap! (What) Generic crunk rap! (Yeah)</lyrics>
+        <lyrics line="two">Generic crunk rap! (What) We don't mess around</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+		
+    </part>
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Generic crunk rap! (Yeah) Generic crunk rap! (What)</lyrics>
+        <lyrics line="two">Generic crunk rap! (Yeah) You like our dirty sound</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Buy clothes (Get crunk) Hennesy (Get crunk)</lyrics>
+        <lyrics line="two">Escalades (Get crunk) Spend money (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Buy cars (Get crunk) Take shots (Get crunk)</lyrics>
+        <lyrics line="two">Have sex (Get crunk) Spend money (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Grandmaster Flash, I'm sorry but we're killing hip-hop</lyrics>
+        <lyrics line="two">KRS, I'm sorry but we're killing hip-hop</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Run-DMC, I'm sorry but we're killing hip-hop</lyrics>
+        <lyrics line="two">But who can argue with the charts When we're sitting at the top?</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Rakim, I'm sorry but we're killing hip-hop</lyrics>
+        <lyrics line="two">Chuck D, I'm sorry but we're killing hip-hop</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">De La Soul, I'm sorry but we're killing hip-hop</lyrics>
+        <lyrics line="two">And we're making so much money that we ain't about to stop!</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Coca Cola! (Get crunk) Nike! (Get crunk)</lyrics>
+        <lyrics line="two">McDonalds! (Get crunk) Disney! (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Fox Network! (Get crunk) Armani! (Get crunk)</lyrics>
+        <lyrics line="two">Gap Clothing! (Get crunk) Mercedes! (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">DKNY! (Get crunk) Courvoisier! (Get crunk)</lyrics>
+        <lyrics line="two">Prada! (Get crunk) Wal-Mart! (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    
+    <part type="chorus" level="easy">
+        <lyrics line="one">Chucky Cheese! (Get crunk) Ralph Lauren! (Get crunk)</lyrics>
+        <lyrics line="two">G-Unit sneakers! (Get crunk) Louis Vuitton! (Get crunk)</lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>
+        
+    </part>	
+    <part type="chorus" level="easy">
+        <lyrics line="one"></lyrics>
+        <lyrics line="two"></lyrics>
+        <answer type="correct"></answer>
+        <answer type="wrong"></answer>
+        <answer type="wrong"></answer>        
+    </part>	
+</song>

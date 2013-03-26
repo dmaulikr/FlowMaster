@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion
+END
+CDConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CDConfig.h
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CocosDenshion.h
+END
+SimpleAudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/SimpleAudioEngine.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CDOpenALSupport.h
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CDAudioManager.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CocosDenshion.m
+END
+SimpleAudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/SimpleAudioEngine.m
+END
+CDOpenALSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CDOpenALSupport.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/csci526/!svn/ver/6324/Spring%202012/FlowMaster/trunk/FlowMasterV1.0/FlowMaster/libs/CocosDenshion/CDAudioManager.m
+END

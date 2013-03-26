@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="GrayTheGreen" length="347" BPM="110" displayLoop="4" BPL="4">
+		<part type="rhyme" level="medium">
+			<lyrics line="one">In a magical land, in a magical town</lyrics>
+			<lyrics line="two">Santa and his magic elves are hanging</lyrics>
+			<answer type="correct">around</answer>
+			<answer type="wrong">stockings</answer>
+			<answer type="wrong">tinsel</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Building magical toys for girls and boys</lyrics>
+			<lyrics line="two">To deliver to the world and bring Christmas</lyrics>
+			<answer type="correct">joy</answer>
+			<answer type="wrong">smiles</answer>
+			<answer type="wrong">dreams</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">The reindeer and snug in their snow-covered stable</lyrics>
+			<lyrics line="two">While Santa puts turkey on the dinner</lyrics>
+			<answer type="correct">table</answer>
+			<answer type="wrong">plate</answer>
+			<answer type="wrong">menu</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But a mile away, huddled in the snow</lyrics>
+			<lyrics line="two">Gary sits scared as the arctic winds</lyrics>
+			<answer type="correct">blow</answer>
+			<answer type="wrong">breathe</answer>
+			<answer type="wrong">sing</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Alone, on his own, forgotten and lost</lyrics>
+			<lyrics line="two">Surviving on roots and the</lyrics>
+			<answer type="correct">permafrost</answer>
+			<answer type="wrong">candy canes</answer>
+			<answer type="wrong">ice cream</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Dreams of joining Santa's team filled Gary's head</lyrics>
+			<lyrics line="two">And he'd walk by the stable when they had all gone to</lyrics>
+			<answer type="correct">bed</answer>
+			<answer type="wrong">sleep</answer>
+			<answer type="wrong">college</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">He'd tap on the glass, the reindeer would laugh</lyrics>
+			<lyrics line="two">Cutting Gary's self-esteem painfully in</lyrics>
+			<answer type="correct">half</answer>
+			<answer type="wrong">pieces</answer>
+			<answer type="wrong">fear</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">He was Rudolph's half-brother, unplanned, unwanted</lyrics>
+			<lyrics line="two">By his father's indiscretions he would be forever</lyrics>
+			<answer type="correct">haunted</answer>
+			<answer type="wrong">depressed</answer>
+			<answer type="wrong">alive</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Gary the Green-Nosed Reindeer (reindeer)</lyrics>
+			<lyrics line="two">Was of unexpected birth</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But one year he saved Christmas</lyrics>
+			<lyrics line="two">And he proved to them his worth</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">All of the other reindeer (reindeer)</lyrics>
+			<lyrics line="two">Used to laugh and make him cry</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">They never let poor Gary (Gary)</lyrics>
+			<lyrics line="two">Fly with them up in the sky</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">In a big dark castle on the other side of town</lyrics>
+			<lyrics line="two">Osama Bin Laden was wearing a</lyrics>
+			<answer type="correct">frown</answer>
+			<answer type="wrong">hat</answer>
+			<answer type="wrong">scarf</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">With a bat on his shoulder, decked in a black cape</lyrics>
+			<lyrics line="two">He devised a new plan to make America</lyrics>
+			<answer type="correct">shake</answer>
+			<answer type="wrong">crumble</answer>
+			<answer type="wrong">die</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">He said, “I'll destroy Christmas, here's what I'll do:</lyrics>
+			<lyrics line="two">I'll kidnap poor Rudolph, it's 9 11 part</lyrics>
+			<answer type="correct">two</answer>
+			<answer type="wrong">three</answer>
+			<answer type="wrong">seven</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">The West will quake when their holiday is gone</lyrics>
+			<lyrics line="two">Then I'll rule the world, like my name was</lyrics>
+			<answer type="correct">Exxon"</answer>
+			<answer type="wrong">Michael Jackson"</answer>
+			<answer type="wrong">Cher"</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">He snuck into the stable, so he could steal</lyrics>
+			<lyrics line="two">Rudolph and he left in his Jihad</lyrics>
+			<answer type="correct">Mobile</answer>
+			<answer type="wrong">car</answer>
+			<answer type="wrong">bus</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Santa found out the news and he said “Oh, dear,</lyrics>
+			<lyrics line="two">Rudolph's gone, there will be no Christmas this</lyrics>
+			<answer type="correct">year!"</answer>
+			<answer type="wrong">season!"</answer>
+			<answer type="wrong">week!"</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">The elves began to cry and the sky turned gray</lyrics>
+			<lyrics line="two">But Gary heard the sobs walking by that</lyrics>
+			<answer type="correct">day</answer>
+			<answer type="wrong">house</answer>
+			<answer type="wrong">room</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">He shared Rudolph's DNA and had something to say</lyrics>
+			<lyrics line="two">He said “I can guide your sleigh and make everything</lyrics>
+			<answer type="correct">okay.”</answer>
+			<answer type="wrong">awesome."</answer>
+			<answer type="wrong">amazing."</answer>
+		</part>
+		
+		
+		!!  this part has no rhymes
+		
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Santa said, “Who are you?”</lyrics>
+			<lyrics line="two">Gary said, “I'm Rudolph's half brother,</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">You can tell 'cause my nose is green, instead of red!”</lyrics>
+			<lyrics line="two">Santa said, “Whatever, just put on this harness.”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">So then one happy Christmas Eve</lyrics>
+			<lyrics line="two">Santa came to say, say (say)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">“Gary, with your nose so green</lyrics>
+			<lyrics line="two">Won't you guide my Christmas sleigh?”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Then all the reindeer loved him (loved him)</lyrics>
+			<lyrics line="two">And they shouted out “hurray!” (hurray)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Gary the Green-Nosed Reindeer (reindeer)</lyrics>
+			<lyrics line="two">Thanks for saving Christmas Day</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">And the toys were delivered across the world</lyrics>
+			<lyrics line="two">Bringing Christmas joy to every boy and</lyrics>
+			<answer type="correct">girl</answer>
+			<answer type="wrong">friend</answer>
+			<answer type="wrong">cat</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Osama was fed up and let Rudolph go</lyrics>
+			<lyrics line="two">And the brothers reunited in the North Pole</lyrics>
+			<answer type="correct">snow</answer>
+			<answer type="wrong">fields</answer>
+			<answer type="wrong">park</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">Rudolph said, “Hey Gary, I'm sorry we laughed</lyrics>
+			<lyrics line="two">And left you forgotten, like President</lyrics>
+			<answer type="correct">Taft</answer>
+			<answer type="wrong">Kennedy</answer>
+			<answer type="wrong">Bush</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">We know it made you cry, we're sorry we were mean</lyrics>
+			<lyrics line="two">We'd like you to join our reindeer</lyrics>
+			<answer type="correct">team”</answer>
+			<answer type="wrong">crew"</answer>
+			<answer type="wrong">posse"</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">And that is how Christmas got its colors</lyrics>
+			<lyrics line="two">From the red and green noses of the reindeer</lyrics>
+			<answer type="correct">brothers</answer>
+			<answer type="wrong">homies</answer>
+			<answer type="wrong">family</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you may see them flying high on Christmas Eve</lyrics>
+			<lyrics line="two">Bringing gifts to little kids like Stacy and</lyrics>
+			<answer type="correct">Steve</answer>
+			<answer type="wrong">Harold</answer>
+			<answer type="wrong">Tyler</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">And Dennis and Cindy and Claire and Louise</lyrics>
+			<lyrics line="two">Playstation 2s and Green Day</lyrics>
+			<answer type="correct">CDs</answer>
+			<answer type="wrong">posters</answer>
+			<answer type="wrong">books</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">But nada for Osama as they say in Espanol</lyrics>
+			<lyrics line="two">No GameCubes in his stocking, now Santa brings him</lyrics>
+			<answer type="correct">coal</answer>
+			<answer type="wrong">pasta</answer>
+			<answer type="wrong">hats</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Gary the Green-Nosed Reindeer (reindeer)</lyrics>
+			<lyrics line="two">Was of unexpected birth</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">But one year he saved Christmas</lyrics>
+			<lyrics line="two">And he proved to them his worth</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">All of the other reindeer (reindeer)</lyrics>
+			<lyrics line="two">Used to laugh and make him cry</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">They never let poor Gary (Gary)</lyrics>
+			<lyrics line="two">Fly with them up in the sky</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">So then one happy Christmas Eve</lyrics>
+			<lyrics line="two">Santa came to say, say (say)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">“Gary, with your nose so green</lyrics>
+			<lyrics line="two">Won't you guide my Christmas sleigh?”</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Then all the reindeer loved him (loved him)</lyrics>
+			<lyrics line="two">And they shouted out “Hurray!” (hurray)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Gary the Green-Nosed Reindeer (reindeer)</lyrics>
+			<lyrics line="two">Thanks for saving Christmas Day</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one"></lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>

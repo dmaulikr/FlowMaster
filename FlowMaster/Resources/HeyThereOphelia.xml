@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<song name="Hey_There" length="432" BPM="75.5" displayLoop="13" BPL="4">
+		<part type="chorus" level="easy">
+			<lyrics line="one">The name's Hamlet's and I've got a tale About madness, lust and a female</lyrics>
+			<lyrics line="two">Dad's a ghost and he roams the floors, Lurks at night in Elsinore</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="chorus" level="easy">
+			<lyrics line="one">Got a pale face just like Kiss paint, Normal you know this ain't</lyrics>
+			<lyrics line="two">Something is rotten up in Denmark A sick mistake</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">My Uncle Claudius, his alibi is fishy</lyrics>
+			<lyrics line="two">Suspicions of murder because he's acting hella</lyrics>
+			<answer type="correct">shifty</answer>
+			<answer type="wrong">strage</answer>
+			<answer type="wrong">bizarre</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Frailty – thy name is woman because my mom's on his D</lyrics>
+			<lyrics line="two">A-N-I-S-H throne my Dad's ghost tells</lyrics>
+			<answer type="correct">me</answer>
+			<answer type="wrong">us</answer>
+			<answer type="wrong">everyone</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">"Swear (swear, swear), to revenge my regicide,</lyrics>
+			<lyrics line="two">Claudius iced me one night, under my crown he tries to</lyrics>
+			<answer type="correct">hide"</answer>
+			<answer type="wrong">remain"</answer>
+			<answer type="wrong">kick it"</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">So Hamlet here's your mission: use your antic disposition</lyrics>
+			<lyrics line="two">Make them think you're crazy, bring justice fuse the</lyrics>
+			<answer type="correct">fission</answer>
+			<answer type="wrong">scenario</answer>
+			<answer type="wrong">difficulty</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Meanwhile my girl Ophelia is goth as hell</lyrics>
+			<lyrics line="two">Keeps a razor by her wrist, rocks out to Soft</lyrics>
+			<answer type="correct">Cell</answer>
+			<answer type="wrong">Leprechauns</answer>
+			<answer type="wrong">Dylan</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">This girl has got more issues than Amy Winehouse</lyrics>
+			<lyrics line="two">I'm like get thee to a nunnery, I'm not trying to find a</lyrics>
+			<answer type="correct">spouse</answer>
+			<answer type="wrong">girlfriend</answer>
+			<answer type="wrong">solution</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">and she says: Screw that forget about that </lyrics>
+			<lyrics line="two">I don't want to think about anything like that</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Screw that forget about that </lyrics>
+			<lyrics line="two">I don't want to know about anything like that</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you (forget it though) I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on you (just let it go)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I'm an emo prince, non-committal as could be</lyrics>
+			<lyrics line="two">You'd be non-committal too if you were flawed like</lyrics>
+			<answer type="correct">me</answer>
+			<answer type="wrong">my Dad</answer>
+			<answer type="wrong">everyone</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Rosencrantz and Guildenstern are on my back and I've had it</lyrics>
+			<lyrics line="two">I've got these players down from Norway let them practice in the</lyrics>
+			<answer type="correct">attic</answer>
+			<answer type="wrong">bathroom</answer>
+			<answer type="wrong">kitchen</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">I'll have them reenact the murder, watch my uncle's expression</lyrics>
+			<lyrics line="two">The play's the thing to catch the king and teach him a</lyrics>
+			<answer type="correct">lesson</answer>
+			<answer type="wrong">solution</answer>
+			<answer type="wrong">answer</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">My uncle freaks out at the play I know he did it just like OJ</lyrics>
+			<lyrics line="two">Can't 187 while he prays because Hamlet won't play</lyrics>
+			<answer type="correct">that way (Nope!)</answer>
+			<answer type="wrong">like that (Nope!)</answer>
+			<answer type="wrong">hardcore (Nope!)</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Confront my mom throw her down on the bed</lyrics>
+			<lyrics line="two">Because this Oedipus complex has got me stressed in the</lyrics>
+			<answer type="correct">head</answer>
+			<answer type="wrong">mind</answer>
+			<answer type="wrong">cerebellum</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Then I killed my girlfriend's dad, he was spying now he's dead</lyrics>
+			<lyrics line="two">I screamed at my mom while the blood made the carpet turn</lyrics>
+			<answer type="correct">red</answer>
+			<answer type="wrong">bloody</answer>
+			<answer type="wrong">nasty</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">See kings lose crowns but princes stay intelligent</lyrics>
+			<lyrics line="two">R. Kelly has girl problems? This is drama, that's</lyrics>
+			<answer type="correct">irrelevant</answer>
+			<answer type="wrong">ridiculous</answer>
+			<answer type="wrong">helacious</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Opehlia bursts in throwing columbines and daises</lyrics>
+			<lyrics line="two">Singing songs about lost virginity – she's honest but she's still</lyrics>
+			<answer type="correct">crazy</answer>
+			<answer type="wrong">insane</answer>
+			<answer type="wrong">lost</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">And she says: Screw that forget about that </lyrics>
+			<lyrics line="two">I don't want to think about anything like that</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">Screw that forget about that </lyrics>
+			<lyrics line="two">I don't want to know about anything like that</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on you (you’ve got to see)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on you (not you it's me)</lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">We've got clowns in the graveyard and I'm talking to skulls</lyrics>
+			<lyrics line="two">We've got murder and incest, who said Shakespeare was</lyrics>
+			<answer type="correct">dull?</answer>
+			<answer type="wrong">boring?</answer>
+			<answer type="wrong">whack?</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">My girlfriend took her life, and I'm like "Goodness gracious"</lyrics>
+			<lyrics line="two">Her brother wants to duel – Laertes is too</lyrics>
+			<answer type="correct">pugnacious</answer>
+			<answer type="wrong">vitriolic</answer>
+			<answer type="wrong">difficult</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">My uncle dipped the tip of the saber in poison (duel time)</lyrics>
+			<lyrics line="two">Then he poisoned the cup that mom started</lyrics>
+			<answer type="correct">enjoyin' (tool time)</answer>
+			<answer type="wrong">reformin' (cake time)</answer>
+			<answer type="wrong">deliverin' (pasta time)</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">I got stabbed with the poison sword, then I stabbed my girlfriend’s brother</lyrics>
+			<lyrics line="two">and then I stabbed my uncle and we've all killed</lyrics>
+			<answer type="correct">each other</answer>
+			<answer type="wrong">the fmaily</answer>
+			<answer type="wrong">the posse</answer>
+		</part>
+		<part type="rhyme" level="hard">
+			<lyrics line="one">To be or not to be? Well I guess that solves that one</lyrics>
+			<lyrics line="two">And I would have stayed in Wittgenberg if I'd know that this would</lyrics>
+			<answer type="correct">happen</answer>
+			<answer type="wrong">occur</answer>
+			<answer type="wrong">go down</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">If you're ever up in Denmark on a moonlit night</lyrics>
+			<lyrics line="two">You'll hear Ophelia's sad song when the full moon’s</lyrics>
+			<answer type="correct">bright</answer>
+			<answer type="wrong">shining</answer>
+			<answer type="wrong">glowing</answer>
+		</part>
+		<part type="rhyme" level="medium">
+			<lyrics line="one">Baby I'm sorry I messed up, good night my sweet princess</lyrics>
+			<lyrics line="two">May flights of angels sing thee to thy</lyrics>
+			<answer type="correct">rest</answer>
+			<answer type="wrong">sleep</answer>
+			<answer type="wrong">dreamtime</answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">And they sing:I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you (forget it though) I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you (just let it go) I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you (you've got to see) I've got nothing to do</lyrics>
+			<lyrics line="two">But hang around and get screwed up on </lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+		<part type="rhyme" level="easy">
+			<lyrics line="one">you (not you it's me)</lyrics>
+			<lyrics line="two"></lyrics>
+			<answer type="correct"></answer>
+			<answer type="wrong"></answer>
+			<answer type="wrong"></answer>
+		</part>
+	</song>
